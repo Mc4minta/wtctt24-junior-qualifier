@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="provisioning_engine_replay_count_key" value="0" />
+    <string name="provisioning_engine_provisioning_session_id_key">f61fc3f9-9583-42e2-a8b3-3e9c418d9391</string>
+    <long name="provisioning_engine_next_retry_time_key" value="0" />
+    <boolean name="provisioning_engine_finished_provisioning_attempt_key" value="true" />
+    <string name="provisioning_engine_state_key">RetryState</string>
+    <int name="provisioning_engine_retry_count_key" value="9" />
+</map>

@@ -1,0 +1,11 @@
+255 local
+254 main
+97 local_network
+98 legacy_network
+99 legacy_system
+1002 dummy0
+1000000002 dummy0_local
+1015 eth0
+1000000015 eth0_local
+1016 wlan0
+1000000016 wlan0_local

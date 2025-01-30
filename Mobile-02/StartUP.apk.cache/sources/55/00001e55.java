@@ -1,0 +1,26 @@
+package com.coinbase.wallet.features.lend.extensions;
+
+import com.coinbase.wallet.store.models.SharedPrefsStoreKey;
+import com.coinbase.wallet.store.models.StoreKeys;
+import kotlin.Metadata;
+import kotlin.h;
+import kotlin.jvm.internal.m;
+import kotlin.k;
+
+/* compiled from: StoreKeys+Lend.kt */
+@Metadata(bv = {1, 0, 3}, d1 = {"\u0000\u0010\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\u0010\u000b\n\u0002\b\u0006\"'\u0010\u0007\u001a\b\u0012\u0004\u0012\u00020\u00020\u0001*\u00020\u00008F@\u0006X\u0086\u0084\u0002¢\u0006\f\n\u0004\b\u0003\u0010\u0004\u001a\u0004\b\u0005\u0010\u0006¨\u0006\b"}, d2 = {"Lcom/coinbase/wallet/store/models/StoreKeys;", "Lcom/coinbase/wallet/store/models/SharedPrefsStoreKey;", "", "lendUserAgreementViewed$delegate", "Lkotlin/h;", "getLendUserAgreementViewed", "(Lcom/coinbase/wallet/store/models/StoreKeys;)Lcom/coinbase/wallet/store/models/SharedPrefsStoreKey;", "lendUserAgreementViewed", "app_productionRelease"}, k = 2, mv = {1, 5, 1})
+/* loaded from: classes.dex */
+public final class StoreKeys_LendKt {
+    private static final h lendUserAgreementViewed$delegate;
+
+    static {
+        h b2;
+        b2 = k.b(StoreKeys_LendKt$lendUserAgreementViewed$2.INSTANCE);
+        lendUserAgreementViewed$delegate = b2;
+    }
+
+    public static final SharedPrefsStoreKey<Boolean> getLendUserAgreementViewed(StoreKeys storeKeys) {
+        m.g(storeKeys, "<this>");
+        return (SharedPrefsStoreKey) lendUserAgreementViewed$delegate.getValue();
+    }
+}

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="usage_stats_hash_salt">059ab783-a048-4a42-91a4-a3372dbf31e6</string>
+    <boolean name="has_try_expressive_stickers_setup" value="true" />
+    <string name="provisioning_session_id">1a2152fb-9827-4e80-a04f-8b9798530e1c</string>
+    <string name="tachyon_public_key">BT7S/vXry2n8M9wcJxuFQUrrO/iMc12cMIFLjyHqJaoB&#10;    </string>
+    <boolean name="is_expressive_stickers_setup_done" value="true" />
+    <long name="first_analytics_upload_time_in_millis" value="1736264447414" />
+    <long name="last_sync_time_millis" value="1736237259778" />
+    <string name="tachyon_registration_token">AH8pFRKJOZhZ9caIZ5CVcvJUytUKppZ6gZxhbr3NH0rseh7jGsGa3XXP5r8nvfkXUaCDQ5SczZxu&#10;+CLxZ4sdePkGgQMpex3XkFFeBmaMP6bE95vcnAXj+e1m2r8jQtwNmy7V6pPveg31TvxJxU0cW3up&#10;BqwZZA==&#10;    </string>
+    <int name="first_provisioning_ui_event_ui_type" value="16" />
+    <long name="tachyon_registration_expiration" value="1736323141950" />
+    <int name="max_conversation_count" value="1" />
+    <int name="shared_preferences_version" value="2" />
+    <boolean name="pending_tasks_after_reboot" value="false" />
+    <string name="UPSELL_PROMPT_SIM_ID">89860318640220133897</string>
+    <boolean name="should_show_rcs_default_on_prompt" value="true" />
+    <int name="rcs_provisioning_status_pev2" value="2" />
+    <int name="rcs_sub_id" value="-2" />
+    <string name="tachyon_registration_id">+1-vWjJHD4k8Ry593lih4YeHF0</string>
+    <int name="provisioning_ui_type" value="16" />
+    <long name="first_rcs_provisioning_ui_event_time" value="1736242167070" />
+    <long name="last_full_sync_time_millis" value="1736237259778" />
+    <long name="conversation_list_last_popup_show_timestamp_ms" value="1736242167143" />
+    <boolean name="bugle_full_sync_in_progress" value="false" />
+    <string name="tachyon_private_key">0Pecd38QjyzEf57aBO0SXyXPv5XHoGarRdu5KqbgMGk=&#10;    </string>
+    <long name="first_rcs_eligibility_time" value="1736236773254" />
+    <boolean name="app_already_migrated_blocked_contacts" value="true" />
+    <long name="app_install_time_millis" value="1736236721540" />
+</map>

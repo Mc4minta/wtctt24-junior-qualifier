@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<roles version="1" packagesHash="FC5788C5F21E2C9ACB47F71D1172C13747D12A05E8E448E63B37B5CD41D3AA44">
+  <role name="android.app.role.SYSTEM_CONTACTS" fallbackEnabled="true">
+    <holder name="com.google.android.contacts" />
+  </role>
+  <role name="android.app.role.FINANCED_DEVICE_KIOSK" fallbackEnabled="true" />
+  <role name="android.app.role.SYSTEM_SETTINGS_INTELLIGENCE" fallbackEnabled="true">
+    <holder name="com.google.android.settings.intelligence" />
+  </role>
+  <role name="android.app.role.RETAIL_DEMO" fallbackEnabled="true" />
+  <role name="android.app.role.SYSTEM_SUPERVISION" fallbackEnabled="true" />
+  <role name="android.app.role.SYSTEM_CALL_STREAMING" fallbackEnabled="true">
+    <holder name="com.google.android.gms" />
+  </role>
+  <role name="android.app.role.DEVICE_POLICY_MANAGEMENT" fallbackEnabled="true" />
+  <role name="android.app.role.COMPANION_DEVICE_WATCH" fallbackEnabled="true" />
+  <role name="android.app.role.COMPANION_DEVICE_GLASSES" fallbackEnabled="true" />
+  <role name="android.app.role.CALL_SCREENING" fallbackEnabled="true" />
+  <role name="android.app.role.SYSTEM_NOTIFICATION_INTELLIGENCE" fallbackEnabled="true">
+    <holder name="com.google.android.as" />
+  </role>
+  <role name="android.app.role.SYSTEM_BLUETOOTH_STACK" fallbackEnabled="true">
+    <holder name="com.google.android.bluetooth" />
+  </role>
+  <role name="android.app.role.COMPANION_DEVICE_APP_STREAMING" fallbackEnabled="true" />
+  <role name="android.app.role.SYSTEM_DOCUMENT_MANAGER" fallbackEnabled="true">
+    <holder name="com.google.android.documentsui" />
+  </role>
+  <role name="android.app.role.SYSTEM_GALLERY" fallbackEnabled="true">
+    <holder name="com.google.android.apps.photos" />
+  </role>
+  <role name="android.app.role.SYSTEM_APP_PROTECTION_SERVICE" fallbackEnabled="true">
+    <holder name="com.google.android.odad" />
+  </role>
+  <role name="android.app.role.SYSTEM_SHELL" fallbackEnabled="true">
+    <holder name="com.android.shell" />
+  </role>
+  <role name="android.app.role.SYSTEM_WELLBEING" fallbackEnabled="true">
+    <holder name="com.google.android.apps.wellbeing" />
+  </role>
+  <role name="android.app.role.SYSTEM_VISUAL_INTELLIGENCE" fallbackEnabled="true">
+    <holder name="com.google.android.as" />
+  </role>
+  <role name="android.app.role.SYSTEM_TEXT_INTELLIGENCE" fallbackEnabled="true">
+    <holder name="com.google.android.as" />
+  </role>
+  <role name="android.app.role.SYSTEM_AUTOMOTIVE_PROJECTION" fallbackEnabled="true">
+    <holder name="com.google.android.projection.gearhead" />
+  </role>
+  <role name="android.app.role.SYSTEM_ACTIVITY_RECOGNIZER" fallbackEnabled="true">
+    <holder name="com.google.android.gms" />
+  </role>
+  <role name="android.app.role.SYSTEM_COMPANION_DEVICE_PROVIDER" fallbackEnabled="true">
+    <holder name="com.google.android.gms" />
+  </role>
+  <role name="android.app.role.SMS" fallbackEnabled="true">
+    <holder name="com.google.android.apps.messaging" />
+  </role>
+  <role name="android.app.role.SYSTEM_UI_INTELLIGENCE" fallbackEnabled="true">
+    <holder name="com.google.android.as" />
+  </role>
+  <role name="android.app.role.DIALER" fallbackEnabled="true">
+    <holder name="com.google.android.dialer" />
+  </role>
+  <role name="android.app.role.HOME" fallbackEnabled="true">
+    <holder name="com.google.android.apps.nexuslauncher" />
+  </role>
+  <role name="android.app.role.SYSTEM_SPEECH_RECOGNIZER" fallbackEnabled="true">
+    <holder name="com.google.android.tts" />
+  </role>
+  <role name="android.app.role.COMPANION_DEVICE_NEARBY_DEVICE_STREAMING" fallbackEnabled="true" />
+  <role name="android.app.role.COMPANION_DEVICE_COMPUTER" fallbackEnabled="true" />
+  <role name="android.app.role.WALLET" fallbackEnabled="true" />
+  <role name="android.app.role.SYSTEM_UI" fallbackEnabled="true">
+    <holder name="com.android.systemui" />
+  </role>
+  <role name="android.app.role.SYSTEM_WIFI_COEX_MANAGER" fallbackEnabled="true" />
+  <role name="android.app.role.ASSISTANT" fallbackEnabled="true">
+    <holder name="com.google.android.googlequicksearchbox" />
+  </role>
+  <role name="android.app.role.SYSTEM_FINANCED_DEVICE_CONTROLLER" fallbackEnabled="true" />
+  <role name="android.app.role.SYSTEM_AMBIENT_AUDIO_INTELLIGENCE" fallbackEnabled="true">
+    <holder name="com.google.android.as" />
+  </role>
+  <role name="android.app.role.EMERGENCY" fallbackEnabled="true">
+    <holder name="com.google.android.apps.safetyhub" />
+  </role>
+  <role name="android.app.role.CALL_REDIRECTION" fallbackEnabled="true" />
+  <role name="android.app.role.SYSTEM_AUDIO_INTELLIGENCE" fallbackEnabled="true">
+    <holder name="com.google.android.as" />
+  </role>
+  <role name="android.app.role.BROWSER" fallbackEnabled="true">
+    <holder name="com.android.chrome" />
+  </role>
+</roles>

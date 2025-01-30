@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="GNP_JOBS_WERE_SCHEDULED" value="false" />
+    <long name="SYNC_PERIOD" value="604800000" />
+    <boolean name="FIRST_STARTUP" value="true" />
+    <string name="SYNC_LANGUAGE">en-US</string>
+    <long name="LAST_SYNC_TIME" value="1736242443051" />
+</map>

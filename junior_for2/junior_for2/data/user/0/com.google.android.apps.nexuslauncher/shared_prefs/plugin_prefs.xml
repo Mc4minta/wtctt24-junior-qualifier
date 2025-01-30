@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="actions">
+        <string>com.android.systemui.action.PLUGIN_BC_SMARTSPACE_DATA</string>
+        <string>com.android.systemui.action.PLUGIN_ALL_APPS_ACTIONS</string>
+        <string>com.android.launcher3.action.PLUGIN_DYNAMIC_RESOURCE</string>
+        <string>com.android.systemui.action.PLUGIN_NETWORK_FETCHER_ACTIONS</string>
+        <string>com.android.systemui.action.PLUGIN_CUSTOM_WIDGET</string>
+        <string>com.android.systemui.action.PLUGIN_LAUNCHER_OVERLAY</string>
+    </set>
+</map>

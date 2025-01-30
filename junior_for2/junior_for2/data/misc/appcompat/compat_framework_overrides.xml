@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<overrides>
+    <change-overrides changeId="263959004">
+        <validated>
+            <override-value packageName="com.android.cts.verifier" enabled="true">
+            </override-value>
+        </validated>
+        <raw>
+            <raw-override-value packageName="com.android.cts.verifier" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+        </raw>
+    </change-overrides>
+    <change-overrides changeId="250678880">
+        <validated>
+            <override-value packageName="com.google.android.GoogleCamera" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.apps.tachyon" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.apps.dynamite" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.apps.googlecamera.fishfood" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.apps.village.boond" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.apps.meetings" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.apps.seekh" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.apps.docs.editors.slides" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.apps.blogger" enabled="false">
+            </override-value>
+            <override-value packageName="com.android.chrome" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.apps.googlevoice" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.apps.jam" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.apps.overlay" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.dialer" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.apps.diagnosticstool" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.gm" enabled="false">
+            </override-value>
+            <override-value packageName="com.android.cts.verifier" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.apps.vision.switches" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.apps.work.clouddpc" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.GoogleCameraEng" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.apps.docs" enabled="false">
+            </override-value>
+            <override-value packageName="com.google.android.youtube" enabled="false">
+            </override-value>
+        </validated>
+        <raw>
+            <raw-override-value packageName="com.google.android.GoogleCamera" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.apps.tachyon" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.apps.dynamite" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.apps.googlecamera.fishfood" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.apps.village.boond" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.apps.meetings" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.apps.seekh" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.apps.docs.editors.slides" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.apps.blogger" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.android.chrome" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.apps.googlevoice" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.apps.jam" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.apps.overlay" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.dialer" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.apps.diagnosticstool" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.gm" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.android.cts.verifier" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.apps.vision.switches" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.apps.work.clouddpc" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.GoogleCameraEng" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.apps.docs" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+            <raw-override-value packageName="com.google.android.youtube" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="false">
+            </raw-override-value>
+        </raw>
+    </change-overrides>
+    <change-overrides changeId="263259275">
+        <validated>
+            <override-value packageName="com.snakeattack.game" enabled="true">
+            </override-value>
+            <override-value packageName="com.zlongame.kr.u2" enabled="true">
+            </override-value>
+            <override-value packageName="com.playgendary.kickthebuddy" enabled="true">
+            </override-value>
+            <override-value packageName="com.miracle.savethedoge.an" enabled="true">
+            </override-value>
+            <override-value packageName="com.supertapx.lovedots" enabled="true">
+            </override-value>
+            <override-value packageName="com.namcobandaigames.pacmantournaments" enabled="true">
+            </override-value>
+            <override-value packageName="com.miniclip.eightballpool" enabled="true">
+            </override-value>
+            <override-value packageName="com.tencent.ig" enabled="true">
+            </override-value>
+            <override-value packageName="com.elex.twdsaw.gp" enabled="true">
+            </override-value>
+            <override-value packageName="com.miniclip.railrush" enabled="true">
+            </override-value>
+            <override-value packageName="com.mobirix.swipebrick2" enabled="true">
+            </override-value>
+            <override-value packageName="mobi.gameguru.slapkings" enabled="true">
+            </override-value>
+            <override-value packageName="com.robtopx.geometryjumplite" enabled="true">
+            </override-value>
+            <override-value packageName="com.cg.tennis" enabled="true">
+            </override-value>
+            <override-value packageName="com.sukhavati.gotoplaying.bubble.BubbleShooter.mint" enabled="true">
+            </override-value>
+            <override-value packageName="com.superking.parchisi.star" enabled="true">
+            </override-value>
+            <override-value packageName="sortpuz.water.sort.puzzle.game" enabled="true">
+            </override-value>
+            <override-value packageName="com.alien.shooter.galaxy.attack" enabled="true">
+            </override-value>
+            <override-value packageName="com.luna.shootingnumbers" enabled="true">
+            </override-value>
+            <override-value packageName="jp.co.goodroid.hyper.muscle" enabled="true">
+            </override-value>
+            <override-value packageName="com.diamondlife.slots.vegas.free" enabled="true">
+            </override-value>
+            <override-value packageName="com.crunchyroll.eminenceinshadowrpg" enabled="true">
+            </override-value>
+            <override-value packageName="com.tg.ysrgb.gp" enabled="true">
+            </override-value>
+            <override-value packageName="com.freeplay.runandfight" enabled="true">
+            </override-value>
+            <override-value packageName="com.master.hotelmaster" enabled="true">
+            </override-value>
+            <override-value packageName="dk.alimote.parcelrangers" enabled="true">
+            </override-value>
+            <override-value packageName="com.longhorn.countmasterevo" enabled="true">
+            </override-value>
+            <override-value packageName="com.newnormalgames.phonecasediy" enabled="true">
+            </override-value>
+            <override-value packageName="com.TimOptimum.AmazingPaw" enabled="true">
+            </override-value>
+            <override-value packageName="com.europosit.pixelcoloring" enabled="true">
+            </override-value>
+            <override-value packageName="com.topwar.gp" enabled="true">
+            </override-value>
+            <override-value packageName="jp.co.goodroid.hyper.snow" enabled="true">
+            </override-value>
+            <override-value packageName="com.garena.game.kgth" enabled="true">
+            </override-value>
+            <override-value packageName="com.outfit7.talkingtomgoldrun" enabled="true">
+            </override-value>
+            <override-value packageName="com.hutchgames.hotwheels" enabled="true">
+            </override-value>
+            <override-value packageName="com.dts.freefiremax" enabled="true">
+            </override-value>
+            <override-value packageName="com.nekki.vector" enabled="true">
+            </override-value>
+            <override-value packageName="com.wordsmobile.RealBikeRacing" enabled="true">
+            </override-value>
+            <override-value packageName="com.srgstudios.inkinc" enabled="true">
+            </override-value>
+            <override-value packageName="com.cg.football" enabled="true">
+            </override-value>
+            <override-value packageName="com.threed.bowling" enabled="true">
+            </override-value>
+            <override-value packageName="com.masomo.headball2" enabled="true">
+            </override-value>
+            <override-value packageName="markergame.coffeestack" enabled="true">
+            </override-value>
+            <override-value packageName="com.bandainamcogames.dbzdokkanww" enabled="true">
+            </override-value>
+            <override-value packageName="com.Neurononfire.SupremeDuelist" enabled="true">
+            </override-value>
+            <override-value packageName="com.outfit7.mytalkingangelafree" enabled="true">
+            </override-value>
+            <override-value packageName="com.Upperpik.SpeedTrain" enabled="true">
+            </override-value>
+            <override-value packageName="com.xd.rainbow.survivor" enabled="true">
+            </override-value>
+            <override-value packageName="com.more.lastfortress.gp" enabled="true">
+            </override-value>
+            <override-value packageName="com.fdgentertainment.bananakong" enabled="true">
+            </override-value>
+            <override-value packageName="com.riotgames.league.wildrift" enabled="true">
+            </override-value>
+            <override-value packageName="com.spacegame.homedesign" enabled="true">
+            </override-value>
+            <override-value packageName="com.xmgame.savethegirl" enabled="true">
+            </override-value>
+            <override-value packageName="com.grandegames.slots.dafu.casino" enabled="true">
+            </override-value>
+            <override-value packageName="com.zuuks.truck.simulator.euro" enabled="true">
+            </override-value>
+            <override-value packageName="games.puzzlegames.jewel.block.puzzle" enabled="true">
+            </override-value>
+            <override-value packageName="com.tutotoons.app.fluvsies.free" enabled="true">
+            </override-value>
+            <override-value packageName="com.productmadness.hovmobile" enabled="true">
+            </override-value>
+            <override-value packageName="com.EntertainmentTheory.EscapeTheGlade" enabled="true">
+            </override-value>
+            <override-value packageName="com.garena.game.kgvn" enabled="true">
+            </override-value>
+            <override-value packageName="com.outfit7.mytalkinghank" enabled="true">
+            </override-value>
+            <override-value packageName="pampam.ibf2" enabled="true">
+            </override-value>
+            <override-value packageName="com.mastercomlimited.cardriving_t" enabled="true">
+            </override-value>
+            <override-value packageName="com.movile.playkids.pkxd" enabled="true">
+            </override-value>
+            <override-value packageName="com.mgc.RopeHero.ViceTown" enabled="true">
+            </override-value>
+            <override-value packageName="com.innersloth.spacemafia" enabled="true">
+            </override-value>
+            <override-value packageName="com.playgendary.creamaster" enabled="true">
+            </override-value>
+            <override-value packageName="com.zuuks.bus.simulator.ultimate" enabled="true">
+            </override-value>
+            <override-value packageName="com.junerking.archery" enabled="true">
+            </override-value>
+            <override-value packageName="com.soccer.score.star" enabled="true">
+            </override-value>
+            <override-value packageName="com.ffgames.racingincar" enabled="true">
+            </override-value>
+            <override-value packageName="com.dts.freefireth" enabled="true">
+            </override-value>
+            <override-value packageName="com.activision.callofduty.shooter" enabled="true">
+            </override-value>
+            <override-value packageName="com.outfit7.herodash" enabled="true">
+            </override-value>
+            <override-value packageName="com.doodle.turboracing3d" enabled="true">
+            </override-value>
+            <override-value packageName="bubbleshooter.orig" enabled="true">
+            </override-value>
+            <override-value packageName="com.billiards.city.pool.nation.club" enabled="true">
+            </override-value>
+            <override-value packageName="com.YoStarJP.AzurLane" enabled="true">
+            </override-value>
+            <override-value packageName="com.youmusic.magictiles" enabled="true">
+            </override-value>
+            <override-value packageName="com.CharityRun.game" enabled="true">
+            </override-value>
+            <override-value packageName="com.moonactive.coinmaster" enabled="true">
+            </override-value>
+            <override-value packageName="com.gafv.puzzle.game.classic.blockpuzzle.wood" enabled="true">
+            </override-value>
+            <override-value packageName="com.solou.catendless.run" enabled="true">
+            </override-value>
+            <override-value packageName="com.budgestudios.HelloKittyNailSalon" enabled="true">
+            </override-value>
+            <override-value packageName="com.matteljv.uno" enabled="true">
+            </override-value>
+            <override-value packageName="com.gravity.roona.aos" enabled="true">
+            </override-value>
+            <override-value packageName="dk.tactile.lilysgarden" enabled="true">
+            </override-value>
+            <override-value packageName="sort.water.puzzle.pour.color.tubes.sorting.game" enabled="true">
+            </override-value>
+            <override-value packageName="game.bubble.shooter.dragon.pop" enabled="true">
+            </override-value>
+            <override-value packageName="com.kabam.marvelbattle" enabled="true">
+            </override-value>
+            <override-value packageName="com.block.juggle" enabled="true">
+            </override-value>
+            <override-value packageName="com.demin.emojipuzzle" enabled="true">
+            </override-value>
+            <override-value packageName="com.kiloo.subwaysurf" enabled="true">
+            </override-value>
+            <override-value packageName="com.amanotes.beathopper" enabled="true">
+            </override-value>
+            <override-value packageName="com.star.union.planetant" enabled="true">
+            </override-value>
+            <override-value packageName="com.mobile.legends" enabled="true">
+            </override-value>
+            <override-value packageName="com.playgendary.tom" enabled="true">
+            </override-value>
+            <override-value packageName="com.miniclip.carrom" enabled="true">
+            </override-value>
+            <override-value packageName="com.yottagames.mafiawar" enabled="true">
+            </override-value>
+            <override-value packageName="com.oriyafriend.archeryseason3d" enabled="true">
+            </override-value>
+            <override-value packageName="com.playstrom.drawonepart" enabled="true">
+            </override-value>
+            <override-value packageName="com.football.soccer.league" enabled="true">
+            </override-value>
+            <override-value packageName="puzzle.blockpuzzle.cube.relax" enabled="true">
+            </override-value>
+            <override-value packageName="com.julian.fastracing" enabled="true">
+            </override-value>
+            <override-value packageName="com.rubygames.assassin" enabled="true">
+            </override-value>
+            <override-value packageName="slots.pcg.casino.games.free.android" enabled="true">
+            </override-value>
+            <override-value packageName="mobi.blackbears.towerlands" enabled="true">
+            </override-value>
+            <override-value packageName="com.skgames.trafficracer" enabled="true">
+            </override-value>
+            <override-value packageName="com.aquiris.horizonchase" enabled="true">
+            </override-value>
+            <override-value packageName="com.outfit7.mytalkingtomfree" enabled="true">
+            </override-value>
+            <override-value packageName="com.surprise.toy.d3" enabled="true">
+            </override-value>
+            <override-value packageName="com.topgamesinc.evony" enabled="true">
+            </override-value>
+            <override-value packageName="com.tap4fun.odin.kingdomguard" enabled="true">
+            </override-value>
+            <override-value packageName="com.wordsmobile.zombieroadkill" enabled="true">
+            </override-value>
+            <override-value packageName="com.bubbleshooter.popbubbles.shootbubblesgame" enabled="true">
+            </override-value>
+            <override-value packageName="com.TwentySeven.MelonPlayground" enabled="true">
+            </override-value>
+            <override-value packageName="wild.space.action" enabled="true">
+            </override-value>
+            <override-value packageName="com.Bingo.Fighter" enabled="true">
+            </override-value>
+            <override-value packageName="com.rioo.runnersubway" enabled="true">
+            </override-value>
+            <override-value packageName="com.dvloper.grannychaptertwo" enabled="true">
+            </override-value>
+            <override-value packageName="com.studio27.MelonPlayground" enabled="true">
+            </override-value>
+            <override-value packageName="com.shape.change" enabled="true">
+            </override-value>
+            <override-value packageName="com.kwalee.transformhunt" enabled="true">
+            </override-value>
+            <override-value packageName="com.YovoGames.dentist" enabled="true">
+            </override-value>
+            <override-value packageName="com.yottagames.gameofmafia" enabled="true">
+            </override-value>
+            <override-value packageName="com.pjmasks.moonlightheroes" enabled="true">
+            </override-value>
+            <override-value packageName="com.global.ztmslg" enabled="true">
+            </override-value>
+            <override-value packageName="com.outfit7.talkingtomjetski2" enabled="true">
+            </override-value>
+            <override-value packageName="com.playgendary.sportmasters" enabled="true">
+            </override-value>
+            <override-value packageName="com.amanotes.pamadancingroad" enabled="true">
+            </override-value>
+            <override-value packageName="com.bethsoft.blade" enabled="true">
+            </override-value>
+        </validated>
+        <raw>
+            <raw-override-value packageName="com.snakeattack.game" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.zlongame.kr.u2" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.playgendary.kickthebuddy" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.miracle.savethedoge.an" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.supertapx.lovedots" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.namcobandaigames.pacmantournaments" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.miniclip.eightballpool" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.tencent.ig" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.elex.twdsaw.gp" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.miniclip.railrush" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.mobirix.swipebrick2" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="mobi.gameguru.slapkings" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.robtopx.geometryjumplite" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.cg.tennis" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.sukhavati.gotoplaying.bubble.BubbleShooter.mint" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.superking.parchisi.star" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="sortpuz.water.sort.puzzle.game" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.alien.shooter.galaxy.attack" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.luna.shootingnumbers" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="jp.co.goodroid.hyper.muscle" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.diamondlife.slots.vegas.free" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.crunchyroll.eminenceinshadowrpg" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.tg.ysrgb.gp" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.freeplay.runandfight" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.master.hotelmaster" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="dk.alimote.parcelrangers" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.longhorn.countmasterevo" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.newnormalgames.phonecasediy" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.TimOptimum.AmazingPaw" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.europosit.pixelcoloring" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.topwar.gp" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="jp.co.goodroid.hyper.snow" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.garena.game.kgth" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.outfit7.talkingtomgoldrun" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.hutchgames.hotwheels" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.dts.freefiremax" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.nekki.vector" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.wordsmobile.RealBikeRacing" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.srgstudios.inkinc" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.cg.football" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.threed.bowling" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.masomo.headball2" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="markergame.coffeestack" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.bandainamcogames.dbzdokkanww" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.Neurononfire.SupremeDuelist" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.outfit7.mytalkingangelafree" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.Upperpik.SpeedTrain" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.xd.rainbow.survivor" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.more.lastfortress.gp" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.fdgentertainment.bananakong" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.riotgames.league.wildrift" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.spacegame.homedesign" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.xmgame.savethegirl" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.grandegames.slots.dafu.casino" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.zuuks.truck.simulator.euro" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="games.puzzlegames.jewel.block.puzzle" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.tutotoons.app.fluvsies.free" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.productmadness.hovmobile" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.EntertainmentTheory.EscapeTheGlade" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.garena.game.kgvn" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.outfit7.mytalkinghank" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="pampam.ibf2" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.mastercomlimited.cardriving_t" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.movile.playkids.pkxd" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.mgc.RopeHero.ViceTown" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.innersloth.spacemafia" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.playgendary.creamaster" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.zuuks.bus.simulator.ultimate" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.junerking.archery" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.soccer.score.star" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.ffgames.racingincar" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.dts.freefireth" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.activision.callofduty.shooter" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.outfit7.herodash" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.doodle.turboracing3d" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="bubbleshooter.orig" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.billiards.city.pool.nation.club" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.YoStarJP.AzurLane" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.youmusic.magictiles" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.CharityRun.game" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.moonactive.coinmaster" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.gafv.puzzle.game.classic.blockpuzzle.wood" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.solou.catendless.run" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.budgestudios.HelloKittyNailSalon" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.matteljv.uno" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.gravity.roona.aos" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="dk.tactile.lilysgarden" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="sort.water.puzzle.pour.color.tubes.sorting.game" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="game.bubble.shooter.dragon.pop" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.kabam.marvelbattle" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.block.juggle" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.demin.emojipuzzle" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.kiloo.subwaysurf" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.amanotes.beathopper" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.star.union.planetant" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.mobile.legends" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.playgendary.tom" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.miniclip.carrom" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.yottagames.mafiawar" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.oriyafriend.archeryseason3d" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.playstrom.drawonepart" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.football.soccer.league" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="puzzle.blockpuzzle.cube.relax" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.julian.fastracing" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.rubygames.assassin" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="slots.pcg.casino.games.free.android" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="mobi.blackbears.towerlands" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.skgames.trafficracer" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.aquiris.horizonchase" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.outfit7.mytalkingtomfree" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.surprise.toy.d3" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.topgamesinc.evony" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.tap4fun.odin.kingdomguard" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.wordsmobile.zombieroadkill" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.bubbleshooter.popbubbles.shootbubblesgame" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.TwentySeven.MelonPlayground" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="wild.space.action" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.Bingo.Fighter" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.rioo.runnersubway" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.dvloper.grannychaptertwo" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.studio27.MelonPlayground" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.shape.change" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.kwalee.transformhunt" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.YovoGames.dentist" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.yottagames.gameofmafia" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.pjmasks.moonlightheroes" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.global.ztmslg" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.outfit7.talkingtomjetski2" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.playgendary.sportmasters" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.amanotes.pamadancingroad" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+            <raw-override-value packageName="com.bethsoft.blade" minVersionCode="-9223372036854775808" maxVersionCode="9223372036854775807" enabled="true">
+            </raw-override-value>
+        </raw>
+    </change-overrides>
+</overrides>

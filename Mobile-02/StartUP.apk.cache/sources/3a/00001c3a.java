@@ -1,0 +1,209 @@
+package com.coinbase.wallet.ethereum.extensions;
+
+import com.coinbase.ApiConstants;
+import com.coinbase.wallet.ethereum.dtos.ETHCallDTO;
+import com.coinbase.wallet.ethereum.exceptions.ERC20ContractException;
+import com.coinbase.wallet.ethereum.interfaces.ETHABIEncoding;
+import com.coinbase.wallet.http.CallEnqueueSingle;
+import com.coinbase.wallet.http.HTTP;
+import com.coinbase.wallet.http.models.HTTPResponse;
+import com.coinbase.wallet.http.models.HTTPService;
+import h.c.b0;
+import h.c.m0.n;
+import java.math.BigInteger;
+import java.util.List;
+import java.util.Map;
+import kotlin.Metadata;
+import kotlin.a0.m0;
+import kotlin.a0.r;
+import kotlin.jvm.internal.m;
+import kotlin.o;
+import kotlin.u;
+
+/* compiled from: HTTP+Ethereum.kt */
+@Metadata(bv = {1, 0, 3}, d1 = {"\u0000.\n\u0002\u0018\u0002\n\u0002\u0010\u000e\n\u0000\n\u0002\u0010 \n\u0002\u0018\u0002\n\u0002\b\u0002\n\u0002\u0010\b\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0002\b\u0003\u001aO\u0010\r\u001a\b\u0012\u0004\u0012\u00020\f0\u000b*\u00020\u00002\u0006\u0010\u0002\u001a\u00020\u00012\u0010\b\u0002\u0010\u0005\u001a\n\u0012\u0004\u0012\u00020\u0004\u0018\u00010\u00032\u0006\u0010\u0006\u001a\u00020\u00012\u0006\u0010\b\u001a\u00020\u00072\n\b\u0002\u0010\n\u001a\u0004\u0018\u00010\tH\u0000¢\u0006\u0004\b\r\u0010\u000e¨\u0006\u000f"}, d2 = {"Lcom/coinbase/wallet/http/HTTP;", "", "method", "", "Lcom/coinbase/wallet/ethereum/interfaces/ETHABIEncoding;", "parameters", ApiConstants.TO, "", "chainID", "Ljava/math/BigInteger;", "blockHeight", "Lh/c/b0;", "Lcom/coinbase/wallet/ethereum/dtos/ETHCallDTO;", "ethCall", "(Lcom/coinbase/wallet/http/HTTP;Ljava/lang/String;Ljava/util/List;Ljava/lang/String;ILjava/math/BigInteger;)Lh/c/b0;", "ethereum_release"}, k = 2, mv = {1, 5, 1})
+/* loaded from: classes.dex */
+public final class HTTP_EthereumKt {
+    public static /* synthetic */ ETHCallDTO a(HTTPResponse hTTPResponse) {
+        return m1098ethCall$lambda0(hTTPResponse);
+    }
+
+    public static final b0<ETHCallDTO> ethCall(HTTP http, String method, List<? extends ETHABIEncoding> list, String to, int i2, BigInteger bigInteger) {
+        Map l2;
+        List j2;
+        Map<String, ? extends Object> l3;
+        String bigInteger2;
+        m.g(http, "<this>");
+        m.g(method, "method");
+        m.g(to, "to");
+        HTTPService ethereum = HTTPService_EthereumKt.ethereum(HTTPService.Companion, i2);
+        String asETHCallRequestData = String_EthereumKt.asETHCallRequestData(method, list);
+        if (ethereum != null && asETHCallRequestData != null) {
+            o[] oVarArr = new o[4];
+            oVarArr[0] = u.a("jsonrpc", "2.0");
+            oVarArr[1] = u.a("id", 1);
+            oVarArr[2] = u.a("method", "eth_call");
+            Object[] objArr = new Object[2];
+            l2 = m0.l(u.a(ApiConstants.TO, to), u.a("data", asETHCallRequestData));
+            objArr[0] = l2;
+            String str = "latest";
+            if (bigInteger != null && (bigInteger2 = bigInteger.toString()) != null) {
+                str = bigInteger2;
+            }
+            objArr[1] = str;
+            j2 = r.j(objArr);
+            oVarArr[3] = u.a("params", j2);
+            l3 = m0.l(oVarArr);
+            b0 subscribeOn = new CallEnqueueSingle(http.getClient(), http.buildPostRequest(ethereum, "", l3, null)).map(new n() { // from class: com.coinbase.wallet.ethereum.extensions.HTTP_EthereumKt$ethCall$$inlined$post$default$1
+                /* JADX WARN: Code restructure failed: missing block: B:31:0x006d, code lost:
+                    l.a.a.e(new com.coinbase.wallet.core.util.AssertionException("Since " + ((java.lang.Object) kotlin.jvm.internal.e0.b(com.coinbase.wallet.ethereum.dtos.ETHCallDTO.class).getSimpleName()) + " is parameterized please pass an adapter to `parameterizedAdapter`"));
+                 */
+                @Override // h.c.m0.n
+                /*
+                    Code decompiled incorrectly, please refer to instructions dump.
+                    To view partially-correct code enable 'Show inconsistent code' option in preferences
+                */
+                public final com.coinbase.wallet.http.models.HTTPResponse<T> apply(okhttp3.Response r9) {
+                    /*
+                        r8 = this;
+                        java.lang.Class<com.coinbase.wallet.ethereum.dtos.ETHCallDTO> r0 = com.coinbase.wallet.ethereum.dtos.ETHCallDTO.class
+                        java.lang.String r1 = "it"
+                        kotlin.jvm.internal.m.g(r9, r1)
+                        com.squareup.moshi.JsonAdapter r1 = com.squareup.moshi.JsonAdapter.this
+                        java.lang.Class<byte[]> r2 = byte[].class
+                        boolean r2 = kotlin.jvm.internal.m.c(r0, r2)
+                        r3 = 0
+                        r4 = 0
+                        if (r2 == 0) goto L26
+                        okhttp3.ResponseBody r0 = r9.body()
+                        if (r0 != 0) goto L1a
+                        goto L1e
+                    L1a:
+                        byte[] r4 = r0.bytes()
+                    L1e:
+                        if (r4 != 0) goto L22
+                        byte[] r4 = new byte[r3]
+                    L22:
+                        com.coinbase.wallet.ethereum.dtos.ETHCallDTO r4 = (com.coinbase.wallet.ethereum.dtos.ETHCallDTO) r4
+                        goto Lac
+                    L26:
+                        boolean r2 = r9.isSuccessful()
+                        if (r2 != 0) goto L3d
+                        com.coinbase.wallet.http.exceptions.HTTPException$RequestFailed r0 = new com.coinbase.wallet.http.exceptions.HTTPException$RequestFailed
+                        okhttp3.ResponseBody r9 = r9.body()
+                        if (r9 != 0) goto L35
+                        goto L39
+                    L35:
+                        java.lang.String r4 = r9.string()
+                    L39:
+                        r0.<init>(r4)
+                        throw r0
+                    L3d:
+                        okhttp3.ResponseBody r2 = r9.body()
+                        if (r2 != 0) goto L44
+                        goto L48
+                    L44:
+                        java.lang.String r4 = r2.string()
+                    L48:
+                        if (r4 == 0) goto Lf6
+                        com.coinbase.wallet.core.util.JSON r2 = com.coinbase.wallet.core.util.JSON.INSTANCE
+                        java.util.concurrent.locks.ReentrantReadWriteLock r5 = r2.getMultiReadSingleWriteLock()
+                        java.util.concurrent.locks.ReentrantReadWriteLock$ReadLock r5 = r5.readLock()
+                        r5.lock()
+                        kotlin.j0.d r6 = kotlin.jvm.internal.e0.b(r0)     // Catch: java.lang.Throwable -> Lf1
+                        java.util.List r6 = r6.getTypeParameters()     // Catch: java.lang.Throwable -> Lf1
+                        boolean r6 = r6.isEmpty()     // Catch: java.lang.Throwable -> Lf1
+                        r7 = 1
+                        r6 = r6 ^ r7
+                        if (r6 == 0) goto L6b
+                        if (r1 == 0) goto L6a
+                        goto L6b
+                    L6a:
+                        r7 = r3
+                    L6b:
+                        if (r7 != 0) goto L93
+                        java.lang.StringBuilder r6 = new java.lang.StringBuilder     // Catch: java.lang.Throwable -> Lf1
+                        r6.<init>()     // Catch: java.lang.Throwable -> Lf1
+                        java.lang.String r7 = "Since "
+                        r6.append(r7)     // Catch: java.lang.Throwable -> Lf1
+                        kotlin.j0.d r7 = kotlin.jvm.internal.e0.b(r0)     // Catch: java.lang.Throwable -> Lf1
+                        java.lang.String r7 = r7.getSimpleName()     // Catch: java.lang.Throwable -> Lf1
+                        r6.append(r7)     // Catch: java.lang.Throwable -> Lf1
+                        java.lang.String r7 = " is parameterized please pass an adapter to `parameterizedAdapter`"
+                        r6.append(r7)     // Catch: java.lang.Throwable -> Lf1
+                        java.lang.String r6 = r6.toString()     // Catch: java.lang.Throwable -> Lf1
+                        com.coinbase.wallet.core.util.AssertionException r7 = new com.coinbase.wallet.core.util.AssertionException     // Catch: java.lang.Throwable -> Lf1
+                        r7.<init>(r6)     // Catch: java.lang.Throwable -> Lf1
+                        l.a.a.e(r7)     // Catch: java.lang.Throwable -> Lf1
+                    L93:
+                        if (r1 != 0) goto La2
+                        com.squareup.moshi.Moshi r1 = r2.getMoshi()     // Catch: java.lang.Throwable -> Lf1
+                        com.squareup.moshi.JsonAdapter r0 = r1.adapter(r0)     // Catch: java.lang.Throwable -> Lf1
+                        java.lang.Object r0 = r0.fromJson(r4)     // Catch: java.lang.Throwable -> Lf1
+                        goto La6
+                    La2:
+                        java.lang.Object r0 = r1.fromJson(r4)     // Catch: java.lang.Throwable -> Lf1
+                    La6:
+                        r4 = r0
+                        r5.unlock()
+                        if (r4 == 0) goto Lee
+                    Lac:
+                        okhttp3.Headers r9 = r9.headers()
+                        int r0 = r9.size()
+                        kotlin.i0.c r0 = kotlin.i0.d.j(r3, r0)
+                        java.util.ArrayList r1 = new java.util.ArrayList
+                        r2 = 10
+                        int r2 = kotlin.a0.p.r(r0, r2)
+                        r1.<init>(r2)
+                        java.util.Iterator r0 = r0.iterator()
+                    Lc7:
+                        boolean r2 = r0.hasNext()
+                        if (r2 == 0) goto Le4
+                        r2 = r0
+                        kotlin.a0.h0 r2 = (kotlin.a0.h0) r2
+                        int r2 = r2.c()
+                        java.lang.String r3 = r9.name(r2)
+                        java.lang.String r2 = r9.value(r2)
+                        kotlin.o r2 = kotlin.u.a(r3, r2)
+                        r1.add(r2)
+                        goto Lc7
+                    Le4:
+                        java.util.Map r9 = kotlin.a0.j0.r(r1)
+                        com.coinbase.wallet.http.models.HTTPResponse r0 = new com.coinbase.wallet.http.models.HTTPResponse
+                        r0.<init>(r4, r9)
+                        return r0
+                    Lee:
+                        com.coinbase.wallet.http.exceptions.HTTPException$UnableToDeserialize r9 = com.coinbase.wallet.http.exceptions.HTTPException.UnableToDeserialize.INSTANCE
+                        throw r9
+                    Lf1:
+                        r9 = move-exception
+                        r5.unlock()
+                        throw r9
+                    Lf6:
+                        com.coinbase.wallet.http.exceptions.HTTPException$UnableToDeserialize r9 = com.coinbase.wallet.http.exceptions.HTTPException.UnableToDeserialize.INSTANCE
+                        throw r9
+                    */
+                    throw new UnsupportedOperationException("Method not decompiled: com.coinbase.wallet.ethereum.extensions.HTTP_EthereumKt$ethCall$$inlined$post$default$1.apply(okhttp3.Response):com.coinbase.wallet.http.models.HTTPResponse");
+                }
+            }).subscribeOn(http.getSchedulers());
+            m.f(subscribeOn, "parameterizedAdapter: JsonAdapter<T>? = null\n    ): Single<HTTPResponse<T>> {\n        val request = buildPostRequest(\n            service = service,\n            path = path,\n            parameters = parameters,\n            headers = headers\n        )\n\n        return CallEnqueueSingle(client, request)\n            .map { it.asHTTPResponse<T>(parameterizedAdapter) }\n            .subscribeOn(schedulers)");
+            b0<ETHCallDTO> map = subscribeOn.map(new n() { // from class: com.coinbase.wallet.ethereum.extensions.c
+                @Override // h.c.m0.n
+                public final Object apply(Object obj) {
+                    return HTTP_EthereumKt.a((HTTPResponse) obj);
+                }
+            });
+            m.f(map, "post<ETHCallDTO>(\n        service = service,\n        path = \"\",\n        parameters = params\n    ).map { response -> response.body }");
+            return map;
+        }
+        b0<ETHCallDTO> error = b0.error(ERC20ContractException.UnableToFindEthereumRPCURL.INSTANCE);
+        m.f(error, "error(ERC20ContractException.UnableToFindEthereumRPCURL)");
+        return error;
+    }
+
+    /* renamed from: ethCall$lambda-0 */
+    public static final ETHCallDTO m1098ethCall$lambda0(HTTPResponse response) {
+        m.g(response, "response");
+        return (ETHCallDTO) response.getBody();
+    }
+}

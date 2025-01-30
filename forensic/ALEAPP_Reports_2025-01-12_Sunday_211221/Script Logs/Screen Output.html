@@ -1,0 +1,117 @@
+Processing started. Please wait. This may take a few minutes...<br>
+
+--------------------------------------------------------------------------------------<br>
+ALEAPP v3.2.5: ALEAPP Logs, Events, and Protobuf Parser<br>
+Objective: Triage Android Full System Extractions.<br>
+By: Alexis Brignoni | @AlexisBrignoni | abrignoni.com<br>
+By: Yogesh Khatri   | @SwiftForensics | swiftforensics.com
+<br>
+Info: 288 modules loaded.<br>
+Artifact categories to parse: 287<br>
+File/Directory selected: C:/Matin/matin-ctf/running/writeup/junior_for2.zip<br>
+
+--------------------------------------------------------------------------------------<br>
+<br>
+roles [roles] artifact started<br>
+roles [roles] artifact completed<br>
+<br>
+Bluetooth Connections [bluetoothConnections] artifact started<br>
+Bluetooth Connections [bluetoothConnections] artifact completed<br>
+<br>
+Calendar [googleCalendar] artifact started<br>
+No Calendar - Events data available<br>
+No Calendar - Calendars data available<br>
+Calendar [googleCalendar] artifact completed<br>
+<br>
+Call logs  [calllog] artifact started<br>
+No Call Log data available<br>
+Call logs  [calllog] artifact completed<br>
+<br>
+Call Logs [calllogs] artifact started<br>
+No Call Logs found<br>
+Call Logs [calllogs] artifact completed<br>
+<br>
+ChromeAutofill [chromeAutofill] artifact started<br>
+No Unknown - Autofill - Entries data available<br>
+Reading ChromeAutofill artifact had errors!<br>
+Error was no such table: autofill_profiles<br>
+Exception Traceback: Traceback (most recent call last):
+  File "aleapp.py", line 378, in crunch_artifacts
+  File "C:\Users\User\AppData\Local\Temp\_MEI164762\scripts\artifacts\chromeAutofill.py", line 98, in get_chromeAutofill
+    cursor.execute(f'''
+sqlite3.OperationalError: no such table: autofill_profiles
+<br>
+<br>
+ChromeCookies [chromeCookies] artifact started<br>
+ChromeCookies [chromeCookies] artifact completed<br>
+<br>
+Contacts [contacts] artifact started<br>
+No Contacts found<br>
+Contacts [contacts] artifact completed<br>
+<br>
+wellbeing [wellbeing] artifact started<br>
+No Digital Wellbeing - Events data available<br>
+No Digital Wellbeing - URL Events data available<br>
+wellbeing [wellbeing] artifact completed<br>
+<br>
+wellbeingaccount [wellbeingaccount] artifact started<br>
+wellbeingaccount [wellbeingaccount] artifact completed<br>
+<br>
+GoogleMessages [googleMessages] artifact started<br>
+GoogleMessages [googleMessages] artifact completed<br>
+<br>
+ImagemngCache [imagemngCache] artifact started<br>
+ImagemngCache [imagemngCache] artifact completed<br>
+<br>
+App Icons [appicons] artifact started<br>
+App Icons [appicons] artifact completed<br>
+<br>
+runtimePerms [runtimePerms] artifact started<br>
+runtimePerms [runtimePerms] artifact completed<br>
+<br>
+last_boot_time [last_boot_time] artifact started<br>
+last_boot_time [last_boot_time] artifact completed<br>
+<br>
+lgRCS [lgRCS] artifact started<br>
+No RCS data in this db, 'message' table is absent!<br>
+lgRCS [lgRCS] artifact completed<br>
+<br>
+sms_mms [smsmms] artifact started<br>
+No MMS messages found!<br>
+sms_mms [smsmms] artifact completed<br>
+<br>
+userDict [userDict] artifact started<br>
+No User Dictionary data available<br>
+userDict [userDict] artifact completed<br>
+<br>
+wifiConfigstore2 [wifiConfigstore2] artifact started<br>
+Reading wifiConfigstore2 artifact had errors!<br>
+Error was cannot access local variable 'configcombined' where it is not associated with a value<br>
+Exception Traceback: Traceback (most recent call last):
+  File "aleapp.py", line 378, in crunch_artifacts
+  File "C:\Users\User\AppData\Local\Temp\_MEI164762\scripts\artifacts\wifiConfigstore2.py", line 112, in get_wifiConfigstore
+    data_list.append((configcombined,ssidcombined,bssidcombined,PreSharedKeycombined, WEPKeyscombined,HiddenSSIDcombined,RandomizedMacAddresscombined,CreatorNamecombined,CreationTimecombined,ConnectChoicecombined,ConnectChoiceTimeStampcombined,HasEverConnectedcombined,IpAssignmentcombined,ProxySettingscombined))
+    ^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'configcombined' where it is not associated with a value
+<br>
+<br>
+wifiHotspot [wifiHotspot] artifact started<br>
+wifiHotspot [wifiHotspot] artifact completed<br>
+<br>
+wifiProfiles [wifiProfiles] artifact started<br>
+wifiProfiles [wifiProfiles] artifact completed<br>
+<br>
+Factory_reset [factory_reset] artifact started<br>
+Factory_reset [factory_reset] artifact completed<br>
+<br>
+setupWizardinfo [setupWizardinfo] artifact started<br>
+setupWizardinfo [setupWizardinfo] artifact completed<br>
+<br>
+Processes completed.<br>
+Processing time = 00:00:03<br>
+Processing time (wall)= 00:00:03<br>
+<br>
+Report generation started.<br>
+Report generation Completed.<br>
+<br>
+Report location: C:\Matin\matin-ctf\running\writeup\forensic\ALEAPP_Reports_2025-01-12_Sunday_211221<br>

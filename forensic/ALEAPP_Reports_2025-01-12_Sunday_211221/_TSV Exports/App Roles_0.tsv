@@ -1,0 +1,41 @@
+﻿Role	Holder
+android.app.role.SYSTEM_CONTACTS	com.google.android.contacts
+android.app.role.FINANCED_DEVICE_KIOSK	
+android.app.role.SYSTEM_SETTINGS_INTELLIGENCE	com.google.android.settings.intelligence
+android.app.role.RETAIL_DEMO	
+android.app.role.SYSTEM_SUPERVISION	
+android.app.role.SYSTEM_CALL_STREAMING	com.google.android.gms
+android.app.role.DEVICE_POLICY_MANAGEMENT	
+android.app.role.COMPANION_DEVICE_WATCH	
+android.app.role.COMPANION_DEVICE_GLASSES	
+android.app.role.CALL_SCREENING	
+android.app.role.SYSTEM_NOTIFICATION_INTELLIGENCE	com.google.android.as
+android.app.role.SYSTEM_BLUETOOTH_STACK	com.google.android.bluetooth
+android.app.role.COMPANION_DEVICE_APP_STREAMING	
+android.app.role.SYSTEM_DOCUMENT_MANAGER	com.google.android.documentsui
+android.app.role.SYSTEM_GALLERY	com.google.android.apps.photos
+android.app.role.SYSTEM_APP_PROTECTION_SERVICE	com.google.android.odad
+android.app.role.SYSTEM_SHELL	com.android.shell
+android.app.role.SYSTEM_WELLBEING	com.google.android.apps.wellbeing
+android.app.role.SYSTEM_VISUAL_INTELLIGENCE	com.google.android.as
+android.app.role.SYSTEM_TEXT_INTELLIGENCE	com.google.android.as
+android.app.role.SYSTEM_AUTOMOTIVE_PROJECTION	com.google.android.projection.gearhead
+android.app.role.SYSTEM_ACTIVITY_RECOGNIZER	com.google.android.gms
+android.app.role.SYSTEM_COMPANION_DEVICE_PROVIDER	com.google.android.gms
+android.app.role.SMS	com.google.android.apps.messaging
+android.app.role.SYSTEM_UI_INTELLIGENCE	com.google.android.as
+android.app.role.DIALER	com.google.android.dialer
+android.app.role.HOME	com.google.android.apps.nexuslauncher
+android.app.role.SYSTEM_SPEECH_RECOGNIZER	com.google.android.tts
+android.app.role.COMPANION_DEVICE_NEARBY_DEVICE_STREAMING	
+android.app.role.COMPANION_DEVICE_COMPUTER	
+android.app.role.WALLET	
+android.app.role.SYSTEM_UI	com.android.systemui
+android.app.role.SYSTEM_WIFI_COEX_MANAGER	
+android.app.role.ASSISTANT	com.google.android.googlequicksearchbox
+android.app.role.SYSTEM_FINANCED_DEVICE_CONTROLLER	
+android.app.role.SYSTEM_AMBIENT_AUDIO_INTELLIGENCE	com.google.android.as
+android.app.role.EMERGENCY	com.google.android.apps.safetyhub
+android.app.role.CALL_REDIRECTION	
+android.app.role.SYSTEM_AUDIO_INTELLIGENCE	com.google.android.as
+android.app.role.BROWSER	com.android.chrome

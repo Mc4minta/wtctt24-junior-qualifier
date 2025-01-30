@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="_retry_count" value="-1" />
+    <int name="_opportunistic_carrier_id" value="-1" />
+    <int name="_primary_sim_carrier_id" value="-1" />
+    <int name="_provisioning_result" value="3" />
+    <int name="_detailed_error_code" value="3" />
+</map>

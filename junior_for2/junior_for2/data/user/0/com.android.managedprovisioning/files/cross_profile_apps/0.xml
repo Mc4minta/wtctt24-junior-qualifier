@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<cross-profile-apps>
+<item value="com.google.android.googlequicksearchbox" />
+<item value="com.google.android.inputmethod.latin.canary" />
+<item value="com.google.android.inputmethod.latin.dev" />
+<item value="com.google.android.projection.gearhead" />
+<item value="com.google.android.inputmethod.latin" />
+</cross-profile-apps>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="launcher.home_bounce_count" value="3" />
+    <boolean name="pref_zero_state_query_ready" value="true" />
+    <string name="migration_src_workspace_size">4,5</string>
+    <boolean name="launcher.apps_view_shown" value="false" />
+    <int name="migration_src_hotseat_count" value="4" />
+    <boolean name="stashed_handle_region_is_dark" value="true" />
+    <string name="migration_src_db_file">launcher_4_by_5.db</string>
+    <string name="idp_grid_name">practical</string>
+    <int name="ALL_APPS_SEARCH_CORPUS_PREFERENCE" value="141151" />
+    <int name="migration_src_device_type" value="0" />
+    <boolean name="launcher.has_enabled_quickstep_once" value="true" />
+</map>

@@ -1,0 +1,2 @@
+﻿SecurityMode	SSID	PreSharedKey	WEPKeys	Password	Identity	DefaultGwMacAddress	semCreationTime	semUpdateTime	LastConnectedTime	CaptivePortal	LoginUrl	IpAssignment	Path
+NONE	AndroidWifi					52:55:0a:00:02:02						DHCP	\\?\C:\Matin\matin-ctf\running\writeup\forensic\ALEAPP_Reports_2025-01-12_Sunday_211221\temp\junior_for2\data\misc\apexdata\com.android.wifi\WifiConfigStore.xml

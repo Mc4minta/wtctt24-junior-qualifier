@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="AdcpChromeAndroidConfig__chrome_bookmark_immutable" value="false" />
+    <string name="ClientId__adcp_client_id_base_yt"></string>
+    <string name="__phenotype_server_token">CAMSAA==</string>
+    <long name="45672970" value="34" />
+    <string name="BaseMsClientId__adcp_client_id_base_ms"></string>
+    <string name="AdcpGmailAndroidConfig__global_signature"></string>
+    <string name="ClientId__adcp_client_id_base_ms"></string>
+    <string name="AdcpGmailAndroidConfig__email_providers"></string>
+    <string name="AtvTurnkeyConfig__turnkey_tv_app_package_name"></string>
+    <string name="BaseAmClientId__adcp_client_id_base_am"></string>
+    <string name="AdcpChromeAndroidConfig__chrome_homepage_url"></string>
+    <string name="BaseYtClientId__adcp_client_id_base_yt"></string>
+    <string name="__phenotype_snapshot_token"> com.google.android.partnersetup#com.google.android.partnersetup 1856 2 -202784191 com.google.android.partnersetup#com.google.android.partnersetup -202784191 1</string>
+    <long name="AdcpChromeAndroidConfig__chrome_last_modified" value="0" />
+    <string name="client_id_flagset">CiZCYXNlQW1DbGllbnRJZF9fYWRjcF9jbGllbnRfaWRfYmFzZV9hbQomQmFzZUF4Q2xpZW50SWRfX2FkY3BfY2xpZW50X2lkX2Jhc2VfYXgKIUJhc2VDbGllbnRJZF9fYWRjcF9jbGllbnRfaWRfYmFzZQomQmFzZUNyQ2xpZW50SWRfX2FkY3BfY2xpZW50X2lkX2Jhc2VfY3IKKEJhc2VHbW1DbGllbnRJZF9fYWRjcF9jbGllbnRfaWRfYmFzZV9nbW0KJkJhc2VNc0NsaWVudElkX19hZGNwX2NsaWVudF9pZF9iYXNlX21zCiZCYXNlUGdDbGllbnRJZF9fYWRjcF9jbGllbnRfaWRfYmFzZV9wZwomQmFzZVNoQ2xpZW50SWRfX2FkY3BfY2xpZW50X2lkX2Jhc2Vfc2gKJkJhc2VUeENsaWVudElkX19hZGNwX2NsaWVudF9pZF9iYXNlX3R4CiZCYXNlVnNDbGllbnRJZF9fYWRjcF9jbGllbnRfaWRfYmFzZV92cwooQmFzZVdhbENsaWVudElkX19hZGNwX2NsaWVudF9pZF9iYXNlX3dhbAomQmFzZVl0Q2xpZW50SWRfX2FkY3BfY2xpZW50X2lkX2Jhc2VfeXQ</string>
+    <string name="DynamicProperties__rlzs">CjwKDnJsel9icmFuZF9jb2RlEhpyby5jb20uZ29vZ2xlLnJsemJyYW5kY29kZRoOcmx6X2JyYW5kX2NvZGUKVgoQcmx6X2FwX3doaXRlbGlzdBIecm8uY29tLmdvb2dsZS5ybHpfYXBfd2hpdGVsaXN0GhBybHpfYXBfd2hpdGVsaXN0IhBybHpfYXBfd2hpdGVsaXN0CkcKEnJsel9icmFuZF9jb2RlX21hcBIdcm8uY29tLmdvb2dsZS5ybHpicmFuZGNvZGVtYXAaEnJsel9icmFuZF9jb2RlX21hcBKoAQofY29tLmdvb2dsZS5hbmRyb2lkLnBhcnRuZXJzZXR1cBKEAQpAMTk3NWIyZjE3MTc3YmM4OWE1ZGZmMzFmOWU2NGE2Y2FlMjgxYTUzZGMxZDFkNTliMWQxNDdmZTFjODJhZmEwMApAZjBmZDZjNWI0MTBmMjVjYjI1YzNiNTMzNDZjODk3MmZhZTMwZjhlZTc0MTFkZjkxMDQ4MGFkNmIyZDYwZGI4MxqoAQofY29tLmdvb2dsZS5hbmRyb2lkLnBhcnRuZXJzZXR1cBKEAQpAMTk3NWIyZjE3MTc3YmM4OWE1ZGZmMzFmOWU2NGE2Y2FlMjgxYTUzZGMxZDFkNTliMWQxNDdmZTFjODJhZmEwMApAZjBmZDZjNWI0MTBmMjVjYjI1YzNiNTMzNDZjODk3MmZhZTMwZjhlZTc0MTFkZjkxMDQ4MGFkNmIyZDYwZGI4Mw</string>
+    <string name="ClientId__adcp_client_id_base_sh"></string>
+    <string name="AtvTurnkeyConfig__turnkey_nrdp_modelgroup"></string>
+    <string name="ClientId__adcp_client_id_base_gmm"></string>
+    <string name="AtvTurnkeyConfig__turnkey_tv_app_signature"></string>
+    <string name="BaseAxClientId__adcp_client_id_base_ax"></string>
+    <string name="ClientId__adcp_client_id_base_wal"></string>
+    <string name="BaseCrClientId__adcp_client_id_base_cr"></string>
+    <string name="AtvTurnkeyConfig__turnkey_tv_operator"></string>
+    <string name="BaseShClientId__adcp_client_id_base_sh"></string>
+    <string name="ClientId__adcp_client_id_base_vs"></string>
+    <string name="BaseWalClientId__adcp_client_id_base_wal"></string>
+    <boolean name="AdcpGmailAndroidConfig__config_enabled" value="false" />
+    <string name="BaseClientId__adcp_client_id_base"></string>
+    <string name="BasePgClientId__adcp_client_id_base_pg"></string>
+    <string name="BaseTestClientId__adcp_client_id_base_test"></string>
+    <string name="ClientId__adcp_client_id_base_tx"></string>
+    <string name="BaseGmmClientId__adcp_client_id_base_gmm"></string>
+    <string name="ClientId__adcp_client_id_base_cr"></string>
+    <boolean name="45673088" value="false" />
+    <string name="AdcpGmailAndroidConfig__account_setup_entries"></string>
+    <string name="DynamicProperties__client_ids">Cl0SWyIacm8uY29tLmdvb2dsZS5jbGllbnRpZGJhc2VCDWNsaWVudGlkX2Jhc2VKCWNsaWVudF9pZFITYWRjcF9jbGllbnRfaWRfYmFzZVoOYmFzZV9jbGllbnRfaWQKehJ4EgNtcy0aB3RhYmxldC0iHXJvLmNvbS5nb29nbGUuY2xpZW50aWRiYXNlLm1zQg9jbGllbnRpZF9zZWFyY2hKEHNlYXJjaF9jbGllbnRfaWRSFmFkY3BfY2xpZW50X2lkX2Jhc2VfbXNaDmJhc2VfY2xpZW50X2lkCpEBEo4BEgNtcy0aB3RhYmxldC0iHXJvLmNvbS5nb29nbGUuY2xpZW50aWRiYXNlLmNyOhJjb20uYW5kcm9pZC5jaHJvbWVCD2NsaWVudGlkX2Nocm9tZUoQY2hyb21lX2NsaWVudF9pZFIWYWRjcF9jbGllbnRfaWRfYmFzZV9jcloQc2VhcmNoX2NsaWVudF9pZAqVARKSARIEZ21tLRoEZ21tLSIecm8uY29tLmdvb2dsZS5jbGllbnRpZGJhc2UuZ21tOhxjb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5tYXBzQg1jbGllbnRpZF9tYXBzSg5tYXBzX2NsaWVudF9pZFIXYWRjcF9jbGllbnRfaWRfYmFzZV9nbW1aDmJhc2VfY2xpZW50X2lkCpsBEpgBEgZtdmFwcC0aBm12YXBwLSIdcm8uY29tLmdvb2dsZS5jbGllbnRpZGJhc2UueXQ6GmNvbS5nb29nbGUuYW5kcm9pZC55b3V0dWJlQhBjbGllbnRpZF95b3V0dWJlShF5b3V0dWJlX2NsaWVudF9pZFIWYWRjcF9jbGllbnRfaWRfYmFzZV95dFoOYmFzZV9jbGllbnRfaWQKjAESiQESA2FtLRoDYW0tIh1yby5jb20uZ29vZ2xlLmNsaWVudGlkYmFzZS5hbToTY29tLmFuZHJvaWQudmVuZGluZ0IPY2xpZW50aWRfbWFya2V0ShBtYXJrZXRfY2xpZW50X2lkUhZhZGNwX2NsaWVudF9pZF9iYXNlX2FtWg5iYXNlX2NsaWVudF9pZAqSAgqKARIGbXMtYXMtGgp0YWJsZXQtYXMtIh1yby5jb20uZ29vZ2xlLmNsaWVudGlkYmFzZS52c0IUY2xpZW50aWRfdm9pY2VzZWFyY2hKFXZvaWNlc2VhcmNoX2NsaWVudF9pZFIWYWRjcF9jbGllbnRfaWRfYmFzZV92c1oQc2VhcmNoX2NsaWVudF9pZBKCARIDbXMtGgd0YWJsZXQtIh1yby5jb20uZ29vZ2xlLmNsaWVudGlkYmFzZS5tc0IUY2xpZW50aWRfdm9pY2VzZWFyY2hKFXZvaWNlc2VhcmNoX2NsaWVudF9pZFIWYWRjcF9jbGllbnRfaWRfYmFzZV9tc1oOYmFzZV9jbGllbnRfaWQKpAESoQESCHNob3BwZXItGghzaG9wcGVyLSIdcm8uY29tLmdvb2dsZS5jbGllbnRpZGJhc2Uuc2g6H2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnNob3BwZXJCEGNsaWVudGlkX3Nob3BwZXJKEXNob3BwZXJfY2xpZW50X2lkUhZhZGNwX2NsaWVudF9pZF9iYXNlX3NoWg5iYXNlX2NsaWVudF9pZArPARLMARIHd2FsbGV0LRoHd2FsbGV0LSIecm8uY29tLmdvb2dsZS5jbGllbnRpZGJhc2Uud2FsOiRjb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy53YWxsZXRuZmNyZWw6JmNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLm5idS5wYWlzYS51c2VyQg9jbGllbnRpZF93YWxsZXRKEHdhbGxldF9jbGllbnRfaWRSF2FkY3BfY2xpZW50X2lkX2Jhc2Vfd2FsWg5iYXNlX2NsaWVudF9pZAqFARKCARIIcGxheS1tcy0aDHBsYXktdGFibGV0LSIdcm8uY29tLmdvb2dsZS5jbGllbnRpZGJhc2UudHhCD2NsaWVudGlkX3BsYXl0eEoQcGxheXR4X2NsaWVudF9pZFIWYWRjcF9jbGllbnRfaWRfYmFzZV90eFoOYmFzZV9jbGllbnRfaWQKiwESiAESC3BsYXktYWQtbXMtGg9wbGF5LWFkLXRhYmxldC0iHXJvLmNvbS5nb29nbGUuY2xpZW50aWRiYXNlLmF4Qg9jbGllbnRpZF9wbGF5YXhKEHBsYXlheF9jbGllbnRfaWRSFmFkY3BfY2xpZW50X2lkX2Jhc2VfYXhaDmJhc2VfY2xpZW50X2lkCngSdhIDcGctGgNwZy0iHXJvLmNvbS5nb29nbGUuY2xpZW50aWRiYXNlLnBnQhBjbGllbnRpZF9wcm9ncmFtShFwcm9ncmFtX2NsaWVudF9pZFIWYWRjcF9jbGllbnRfaWRfYmFzZV9wZ1oOYmFzZV9jbGllbnRfaWQaqAEKH2NvbS5nb29nbGUuYW5kcm9pZC5wYXJ0bmVyc2V0dXAShAEKQDE5NzViMmYxNzE3N2JjODlhNWRmZjMxZjllNjRhNmNhZTI4MWE1M2RjMWQxZDU5YjFkMTQ3ZmUxYzgyYWZhMDAKQGYwZmQ2YzViNDEwZjI1Y2IyNWMzYjUzMzQ2Yzg5NzJmYWUzMGY4ZWU3NDExZGY5MTA0ODBhZDZiMmQ2MGRiODM</string>
+    <string name="AdcpChromeAndroidConfig__config_id"></string>
+    <string name="ClientId__adcp_client_id_base_am"></string>
+    <string name="BaseVsClientId__adcp_client_id_base_vs"></string>
+    <string name="ClientId__adcp_client_id_base_ax"></string>
+    <string name="ClientId__adcp_client_id_base_pg"></string>
+    <string name="AdcpChromeAndroidConfig__chrome_bookmarks"></string>
+    <string name="ClientId__adcp_client_id_base"></string>
+    <long name="__phenotype_configuration_version" value="1736232900" />
+    <string name="BaseTxClientId__adcp_client_id_base_tx"></string>
+</map>

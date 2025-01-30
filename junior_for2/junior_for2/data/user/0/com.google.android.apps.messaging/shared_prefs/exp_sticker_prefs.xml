@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="favorites">packs/5,packs/6,packs/880401,packs/880502,packs/793010</string>
+    <boolean name="show_favorites_prompt" value="true" />
+</map>

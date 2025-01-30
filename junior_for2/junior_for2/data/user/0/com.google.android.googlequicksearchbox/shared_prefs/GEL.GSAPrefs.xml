@@ -1,0 +1,625 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="flag.7249" value="false" />
+    <boolean name="flag.15232" value="false" />
+    <boolean name="flag.45364506" value="false" />
+    <boolean name="flag.15113" value="false" />
+    <boolean name="flag.15114" value="false" />
+    <boolean name="flag.16203" value="false" />
+    <boolean name="flag.14379" value="false" />
+    <boolean name="flag.16204" value="false" />
+    <boolean name="flag.14378" value="true" />
+    <boolean name="flag.45375872" value="false" />
+    <boolean name="flag.16205" value="false" />
+    <boolean name="flag.45375871" value="false" />
+    <long name="flag.13044" value="1048576" />
+    <boolean name="flag.45375873" value="false" />
+    <boolean name="flag.45375870" value="false" />
+    <boolean name="flag.45378906" value="true" />
+    <boolean name="flag.9796" value="true" />
+    <boolean name="flag.12191" value="true" />
+    <string name="GsaPrefs.Bisto__viable_hotword_models">Model_1.data,Model_2.data,Model_3.data,Model_4.data</string>
+    <boolean name="flag.45375879" value="false" />
+    <boolean name="flag.8587" value="false" />
+    <boolean name="flag.9797" value="true" />
+    <boolean name="flag.45375876" value="false" />
+    <boolean name="flag.45375755" value="false" />
+    <boolean name="flag.9670" value="true" />
+    <boolean name="flag.45375875" value="false" />
+    <boolean name="flag.45375754" value="false" />
+    <boolean name="flag.9673" value="true" />
+    <boolean name="flag.45375878" value="false" />
+    <boolean name="flag.8100" value="false" />
+    <boolean name="flag.9430" value="false" />
+    <boolean name="flag.45375877" value="false" />
+    <boolean name="flag.45362793" value="false" />
+    <long name="GsaPrefs.AgsaOpaGrowth__required_app_launch_count_to_show_nudge_ui" value="3" />
+    <long name="flag.10900" value="80" />
+    <boolean name="flag.8206" value="false" />
+    <boolean name="flag.16791" value="false" />
+    <string name="flag.16550">and.gsa.launcher.icon,and.gsa.widget.mic,and.gsa.widget.text,and.gsa.voice.search.icon,and.gsa.widget.logo</string>
+    <string name="flag.16551"></string>
+    <boolean name="flag.16674" value="true" />
+    <boolean name="flag.16434" value="false" />
+    <boolean name="flag.14026" value="true" />
+    <boolean name="flag.16799" value="true" />
+    <boolean name="flag.45350101" value="false" />
+    <boolean name="flag.45352882" value="false" />
+    <boolean name="flag.45354823" value="false" />
+    <boolean name="flag.45350580" value="true" />
+    <boolean name="flag.8575" value="false" />
+    <boolean name="flag.45375869" value="false" />
+    <boolean name="flag.13170" value="false" />
+    <boolean name="flag.45352527" value="false" />
+    <boolean name="flag.45375867" value="false" />
+    <boolean name="flag.45375866" value="true" />
+    <boolean name="flag.8799" value="true" />
+    <boolean name="flag.9645" value="false" />
+    <boolean name="flag.9526" value="true" />
+    <boolean name="GsaPrefs.AgsaOpa__enable_message_style_parser_for_whatsapp" value="true" />
+    <string name="flag.45361138"></string>
+    <boolean name="flag.14599" value="true" />
+    <boolean name="flag.15456" value="false" />
+    <string name="flag.13146">ChNuZ2Etd2VicmVmLW1hbmlmZXN0ElZodHRwczovL3d3dy5nc3RhdGljLmNvbS93ZWJyZWYtb25kZXZpY2UvbWFuaWZlc3RfY29uZmlncy9uZ2Evd2VicmVmX21hbmlmZXN0X2NvbmZpZy5wYg==</string>
+    <boolean name="flag.14113" value="true" />
+    <boolean name="flag.13143" value="false" />
+    <boolean name="flag.45352892" value="true" />
+    <boolean name="flag.45375890" value="false" />
+    <boolean name="flag.11085" value="false" />
+    <boolean name="flag.45410985" value="false" />
+    <boolean name="flag.45419318" value="false" />
+    <boolean name="flag.11080" value="false" />
+    <boolean name="flag.9894" value="true" />
+    <boolean name="flag.9655" value="true" />
+    <boolean name="flag.9776" value="false" />
+    <boolean name="flag.45353747" value="false" />
+    <boolean name="flag.8560" value="false" />
+    <boolean name="flag.45352534" value="false" />
+    <boolean name="flag.45364992" value="false" />
+    <boolean name="flag.45363301" value="false" />
+    <boolean name="GsaPrefs.AgsaOpaGrowth__enable_nudge_ui" value="false" />
+    <boolean name="flag.8667" value="false" />
+    <boolean name="flag.8788" value="true" />
+    <boolean name="flag.8789" value="true" />
+    <string name="flag.45381078">GrpcLaunchLE:LaunchArm</string>
+    <boolean name="flag.45386408" value="true" />
+    <boolean name="flag.15566" value="true" />
+    <long name="flag.14489" value="3" />
+    <boolean name="flag.13158" value="true" />
+    <boolean name="flag.45375883" value="false" />
+    <boolean name="flag.45353510" value="false" />
+    <boolean name="flag.45375882" value="false" />
+    <boolean name="flag.45374794" value="true" />
+    <string name="flag.45352663">com.android.switchaccess.SwitchAccessService,com.google.android.apps.accessibility.voiceaccess,com.google.android.accessibility.selecttospeak.SelectToSpeakService</string>
+    <boolean name="flag.15207" value="true" />
+    <boolean name="flag.11095" value="false" />
+    <boolean name="flag.45375881" value="false" />
+    <long name="flag.45374792" value="5" />
+    <boolean name="flag.7100" value="false" />
+    <boolean name="flag.9400" value="false" />
+    <boolean name="flag.8670" value="false" />
+    <boolean name="flag.45375887" value="false" />
+    <boolean name="flag.45375889" value="false" />
+    <boolean name="flag.45375888" value="false" />
+    <boolean name="flag.9881" value="true" />
+    <boolean name="flag.45352423" value="true" />
+    <long name="flag.45360185" value="1000" />
+    <boolean name="flag.45387543" value="false" />
+    <long name="flag.45360186" value="2" />
+    <long name="flag.45360187" value="600" />
+    <boolean name="flag.9508" value="false" />
+    <long name="flag.45360188" value="0" />
+    <string name="flag.7324">en-US,en-AU,en-CA,en-GB,en-IE,en-SG,en-IN,ja-JP,fr-CA,fr-FR,it-IT,de-DE,es-ES,es-MX,es-US</string>
+    <long name="flag.45363572" value="3000" />
+    <string name="flag.7325">Pixel 4,Pixel 4 XL,Pixel 4a,Pixel 4a (5G),Pixel 5,Pixel 5a,Pixel 6,Pixel 6 Pro</string>
+    <boolean name="flag.9989" value="true" />
+    <long name="flag.45360183" value="0" />
+    <long name="flag.15392" value="672" />
+    <boolean name="flag.45360063" value="true" />
+    <long name="flag.45360184" value="1" />
+    <long name="flag.15393" value="240" />
+    <boolean name="flag.16121" value="true" />
+    <string name="flag.45386458">30680,30681,23152</string>
+    <boolean name="flag.45360189" value="true" />
+    <boolean name="flag.16008" value="false" />
+    <boolean name="flag.15025" value="true" />
+    <boolean name="flag.45350493" value="false" />
+    <boolean name="flag.15022" value="true" />
+    <boolean name="flag.8422" value="true" />
+    <boolean name="key_personal_results_headphones_enabled" value="false" />
+    <string name="flag.443192746"></string>
+    <string name="flag.443192747"></string>
+    <boolean name="flag.11912" value="false" />
+    <boolean name="flag.8888" value="true" />
+    <boolean name="flag.15261" value="false" />
+    <long name="flag.8767" value="1" />
+    <boolean name="flag.16472" value="true" />
+    <boolean name="flag.16111" value="false" />
+    <boolean name="flag.45386105" value="false" />
+    <boolean name="flag.15146" value="true" />
+    <boolean name="flag.45362117" value="false" />
+    <boolean name="flag.15389" value="false" />
+    <boolean name="flag.45362116" value="false" />
+    <boolean name="flag.45365987" value="false" />
+    <boolean name="flag.45380803" value="true" />
+    <long name="flag.9861" value="3" />
+    <long name="flag.14180" value="1" />
+    <boolean name="flag.45373489" value="false" />
+    <long name="flag.9608" value="3" />
+    <boolean name="flag.9607" value="true" />
+    <boolean name="flag.9844" value="false" />
+    <boolean name="flag.5129" value="false" />
+    <boolean name="flag.15250" value="false" />
+    <boolean name="flag.15372" value="false" />
+    <boolean name="flag.15131" value="false" />
+    <boolean name="flag.15132" value="false" />
+    <boolean name="flag.16464" value="false" />
+    <boolean name="flag.16347" value="false" />
+    <string name="flag.45362028"></string>
+    <long name="flag.45423906" value="20000" />
+    <string name="flag.45373155">com.google.android.dialer</string>
+    <boolean name="flag.15004" value="false" />
+    <boolean name="flag.12098" value="false" />
+    <string name="flag.45353661">Oriole,oriole,Raven,Pixel 6*,Pixel 7*</string>
+    <boolean name="flag.45378609" value="false" />
+    <boolean name="flag.45351367" value="true" />
+    <boolean name="flag.45353425" value="false" />
+    <boolean name="flag.9970" value="true" />
+    <boolean name="flag.45351368" value="true" />
+    <boolean name="flag.45355601" value="true" />
+    <boolean name="flag.9715" value="true" />
+    <boolean name="flag.45360199" value="false" />
+    <boolean name="flag.45360071" value="true" />
+    <boolean name="flag.8622" value="false" />
+    <long name="flag.45362131" value="0" />
+    <boolean name="flag.8987" value="false" />
+    <boolean name="flag.9834" value="false" />
+    <boolean name="flag.8624" value="false" />
+    <boolean name="flag.16692" value="false" />
+    <boolean name="flag.15244" value="true" />
+    <boolean name="flag.45367826" value="true" />
+    <boolean name="flag.9719" value="false" />
+    <boolean name="flag.45366978" value="false" />
+    <boolean name="flag.16458" value="false" />
+    <boolean name="flag.45356945" value="true" />
+    <boolean name="flag.16219" value="false" />
+    <boolean name="flag.2097" value="true" />
+    <boolean name="flag.45356821" value="false" />
+    <boolean name="flag.3168" value="false" />
+    <boolean name="flag.8616" value="false" />
+    <boolean name="flag.8615" value="false" />
+    <boolean name="flag.8617" value="false" />
+    <boolean name="flag.8612" value="false" />
+    <boolean name="GsaPrefs.AgsaOpaGrowth__enable_nudge_ui_couterfactual_appflow_logging" value="false" />
+    <boolean name="flag.11703" value="false" />
+    <boolean name="flag.8614" value="false" />
+    <string name="flag.6436">com.android.car.messenger,com.facebook.orca,com.google.android.apps.fireball,com.whatsapp,jp.naver.line.android,com.tencent.mm,ch.threema.app,org.telegram.messenger,com.hike.chat.stickers,com.vkontakte.android,com.viber.voip,com.samsung.android.messaging,com.google.android.apps.messaging,com.google.android.talk,org.telegram.messenger,org.thoughtcrime.securesms,xyz.klinker.messenger,com.google.android.googlequicksearchbox</string>
+    <boolean name="flag.45359430" value="true" />
+    <boolean name="flag.8613" value="false" />
+    <boolean name="flag.11702" value="false" />
+    <boolean name="flag.11820" value="true" />
+    <boolean name="flag.16045" value="false" />
+    <boolean name="flag.45364902" value="false" />
+    <boolean name="flag.45369116" value="false" />
+    <boolean name="flag.8619" value="false" />
+    <string name="flag.10851"></string>
+    <boolean name="flag.45368150" value="false" />
+    <string name="flag.15067">fr-CA,fr-FR,it-IT,de-DE,es-ES,es-MX,es-US</string>
+    <boolean name="flag.45369122" value="true" />
+    <long name="flag.45369123" value="5" />
+    <boolean name="flag.45375914" value="true" />
+    <boolean name="flag.8620" value="false" />
+    <boolean name="flag.45357127" value="false" />
+    <boolean name="flag.8847" value="false" />
+    <boolean name="flag.8607" value="false" />
+    <long name="flag.11719" value="0" />
+    <boolean name="flag.8843" value="false" />
+    <boolean name="flag.9931" value="false" />
+    <long name="flag.45350748" value="0" />
+    <boolean name="flag.45351717" value="true" />
+    <boolean name="flag.9933" value="true" />
+    <long name="GsaPrefs.nga_location_access" value="1" />
+    <boolean name="flag.10621" value="false" />
+    <boolean name="flag.16034" value="false" />
+    <boolean name="flag.10866" value="true" />
+    <boolean name="GsaPrefs.AgsaOpaGrowth__enable_personalized_suggestions_on_chalkboard" value="false" />
+    <boolean name="flag.8609" value="false" />
+    <boolean name="flag.8608" value="false" />
+    <boolean name="flag.8729" value="true" />
+    <boolean name="flag.16038" value="false" />
+    <boolean name="flag.15078" value="false" />
+    <string name="flag.45350744">EpoEChNleHAtZGV2aWNlLWNvbnRhY3RzChBleHAtcGtnLWNvbnRhY3RzChFzaG93LXJlbWluZGVyLWV4cAoSZGV2aWNlLWFjdGlvbnMtZXhwCg1zZXQtYWxhcm0tZXhwCglwa2ctbWVkaWEKFGZvcmVncm91bmQtZ21haWwtZXhwChNmb3JlZ3JvdW5kLWtlZXAtZXhwChdmb3JlZ3JvdW5kLW1lc3NhZ2VzLWV4cAoXZm9yZWdyb3VuZC13aGF0c2FwcC1leHAKFnByZWJ1aWx0LXBvcHVsYXItbWVkaWEKG2FwcC1jb250cm9sLWhvbWUtc2NyZWVuLWV4cAodaW5pdGlhdGUtY2FsbC1jYWxsZWUtcHJvbXB0ZWQKJnNlbmQtZGlnaXRhbC1vYmplY3QtcmVjaXBpZW50LXByb21wdGVkCgluZ2EtY2xvY2sKE2ludGVudC1hY3Rpb24tcGhvdG8KDXNldC10aW1lci1leHAKC2hvdHdvcmQtZXhwCh5leHAtcHJvbXB0ZWQtbWVzc2FnZS1kaWN0YXRpb24KDHJlbWluZGVyLWV4cAoFdGltZXIKBWFsYXJtCg1leHAtYXBwLW5hbWVzCgluZ2EtbWVkaWEKHHByb21wdGVkLWxpc3QtY2FuZGlkYXRlcy1leHAKJ2Fzc2lzdGFudC1wYXN0LXR5cGVkLXF1ZXJpZXMtbmdyYW1zLWV4cA==</string>
+    <boolean name="flag.8610" value="false" />
+    <string name="flag.45350866">1,2</string>
+    <boolean name="flag.45350621" value="true" />
+    <boolean name="flag.45367292" value="false" />
+    <string name="flag.11808">ja-JP,fr-CA,fr-FR,it-IT,de-DE,es-ES,es-MX,es-US,en-US,en-AU,en-CA,en-GB,en-IE,en-SG,en-IN</string>
+    <boolean name="flag.11804" value="true" />
+    <boolean name="flag.45390177" value="false" />
+    <string name="flag.45355097"></string>
+    <boolean name="flag.45357275" value="false" />
+    <boolean name="flag.10831" value="true" />
+    <boolean name="flag.16143" value="false" />
+    <boolean name="flag.16022" value="false" />
+    <long name="flag.15178" value="720" />
+    <boolean name="flag.16147" value="false" />
+    <long name="flag.14199" value="10" />
+    <long name="flag.15046" value="0" />
+    <boolean name="flag.14198" value="false" />
+    <string name="flag.8720">99688432,1610262381,1138003536</string>
+    <boolean name="flag.8841" value="false" />
+    <boolean name="flag.5210" value="false" />
+    <boolean name="flag.45374842" value="false" />
+    <boolean name="flag.45357281" value="false" />
+    <boolean name="flag.8824" value="true" />
+    <boolean name="flag.8941" value="true" />
+    <boolean name="flag.8943" value="true" />
+    <boolean name="flag.8822" value="false" />
+    <string name="flag.16010"></string>
+    <boolean name="flag.16132" value="false" />
+    <string name="flag.10962">de,de-DE;de-DE,de-DE;en,en-US;en-US,en-US;es,es-ES;es-ES,es-ES;fr,fr-FR;fr-FR,fr-FR;it,it-IT;it-IT,it-IT;ja,ja-JP;ja-JP,ja-JP</string>
+    <boolean name="flag.8708" value="true" />
+    <boolean name="flag.45390180" value="false" />
+    <boolean name="GsaPrefs.AgsaOpaGrowth__enable_only_personalized_suggestions_on_chalkboard" value="false" />
+    <boolean name="flag.14089" value="false" />
+    <boolean name="flag.45375923" value="false" />
+    <boolean name="flag.45373747" value="false" />
+    <boolean name="flag.4474" value="true" />
+    <long name="flag.45359217" value="100" />
+    <boolean name="flag.8814" value="false" />
+    <long name="flag.8816" value="8" />
+    <boolean name="flag.7848" value="true" />
+    <boolean name="flag.11626" value="false" />
+    <string name="flag.10897"></string>
+    <long name="flag.16089" value="10" />
+    <string name="flag.10899">en-US,en-AU,en-CA,en-GB,en-IE,en-SG,en-IN,fr-CA,fr-FR,it-IT,de-DE,es-ES,es-MX,es-US</string>
+    <boolean name="flag.11865" value="false" />
+    <string name="flag.10893">en-US,en-AU,en-CA,en-GB,en-IE,en-SG,en-IN,fr-CA,fr-FR,ja-JP,de-DE,it-IT,es-ES</string>
+    <string name="flag.10892">en-US,en-AU,en-CA,en-GB,en-IE,en-SG,en-IN,ja-JP</string>
+    <boolean name="flag.11863" value="false" />
+    <string name="flag.10895">en-US,en-AU,en-CA,en-GB,en-IE,en-SG,en-IN,ja-JP,fr-CA,fr-FR,it-IT,de-DE,es-ES,es-MX,es-US</string>
+    <boolean name="flag.11860" value="false" />
+    <string name="flag.10894">en-US,en-AU,en-CA,en-GB,en-IE,en-SG,en-IN,fr-CA,fr-FR,it-IT,de-DE,es-ES,es-MX,es-US</string>
+    <string name="flag.10891">en-US,en-AU,en-CA,en-GB,en-IE,en-SG,en-IN,ja-JP</string>
+    <string name="flag.10890">en-US,en-AU,en-CA,en-GB,en-IE,en-SG,en-IN,ja-JP,fr-CA,fr-FR,it-IT,de-DE,es-ES,es-MX,es-US</string>
+    <boolean name="flag.45364828" value="false" />
+    <boolean name="flag.45364829" value="false" />
+    <long name="flag.45358379" value="0" />
+    <long name="flag.45351745" value="3" />
+    <string name="flag.45350654">CgsIARIFYXVtdjEYARJUCAMYATJDCkEKPy9tbC9hY3Rpb24tdXNlci1tb2RlbC1tbC10ZmxpdGUtcHJvZC91Y20ubGluZWFyLWNhbGxkdXJhdGlvbi12MToJCQAAAAAAAOg/EgYIBhgBKAE=</string>
+    <string name="flag.1195">0,30</string>
+    <boolean name="flag.5774" value="true" />
+    <boolean name="GsaPrefs.AgsaOpa__enable_message_style_parser_for_messages_and_hangouts" value="true" />
+    <string name="flag.10428"></string>
+    <boolean name="flag.6985" value="false" />
+    <long name="flag.45363967" value="0" />
+    <long name="flag.8928" value="-1" />
+    <string name="flag.45350782"></string>
+    <boolean name="flag.45351750" value="true" />
+    <boolean name="flag.45371582" value="false" />
+    <boolean name="flag.45420115" value="false" />
+    <boolean name="flag.11845" value="false" />
+    <boolean name="flag.17034" value="false" />
+    <boolean name="GsaPrefs.AgsaOpaGrowth__enable_nudge_ui_appflow_logging" value="false" />
+    <long name="GsaPrefs.AgsaOpaGrowth__nudge_ui_per_app_display_cap" value="0" />
+    <boolean name="flag.11843" value="false" />
+    <boolean name="flag.11964" value="false" />
+    <boolean name="flag.10992" value="false" />
+    <long name="flag.11720" value="0" />
+    <boolean name="flag.45364603" value="true" />
+    <long name="flag.45360247" value="2500" />
+    <boolean name="flag.10751" value="false" />
+    <boolean name="flag.15088" value="true" />
+    <string name="flag.45358278">1,4,7</string>
+    <long name="GsaPrefs.AgsaOpaGrowth__minimum_gap_in_minutes_between_nudges" value="30240" />
+    <boolean name="flag.45364830" value="true" />
+    <string name="flag.10889">en-US,en-AU,en-CA,en-GB,en-IE,en-SG,en-IN,ja-JP,fr-CA,fr-FR,it-IT,de-DE,es-ES,es-MX,es-US</string>
+    <boolean name="flag.45352509" value="false" />
+    <boolean name="flag.45359143" value="false" />
+    <string name="flag.45369289"></string>
+    <boolean name="flag.11974" value="false" />
+    <string name="flag.10888">en-US,en-AU,en-CA,en-GB,en-IE,en-SG</string>
+    <string name="flag.10887">en-US,en-AU,en-CA,en-GB,en-IE,en-SG</string>
+    <boolean name="flag.45361444" value="false" />
+    <boolean name="flag.45391072" value="true" />
+    <boolean name="flag.12820" value="false" />
+    <boolean name="flag.45372451" value="false" />
+    <boolean name="flag.10219" value="false" />
+    <boolean name="flag.13603" value="true" />
+    <boolean name="flag.12876" value="false" />
+    <boolean name="flag.10459" value="false" />
+    <boolean name="flag.10579" value="false" />
+    <boolean name="flag.12635" value="false" />
+    <boolean name="flag.11664" value="false" />
+    <boolean name="flag.11786" value="false" />
+    <string name="flag.7808">com.android.car.messenger,com.facebook.orca,com.google.android.apps.fireball,com.google.android.apps.messaging,com.whatsapp,jp.naver.line.android,com.tencent.mm,ch.threema.app,org.telegram.messenger,com.hike.chat.stickers,com.vkontakte.android,com.viber.voip</string>
+    <boolean name="flag.45359828" value="true" />
+    <long name="flag.10690" value="1" />
+    <boolean name="flag.45352199" value="false" />
+    <string name="flag.45375196">tesla</string>
+    <long name="flag.381400212" value="500" />
+    <boolean name="flag.45400259" value="false" />
+    <boolean name="flag.14949" value="true" />
+    <boolean name="flag.14704" value="false" />
+    <boolean name="flag.13977" value="true" />
+    <long name="flag.10469" value="0" />
+    <boolean name="flag.11434" value="false" />
+    <boolean name="flag.13611" value="false" />
+    <long name="flag.11432" value="504" />
+    <boolean name="flag.45357539" value="false" />
+    <boolean name="flag.10581" value="true" />
+    <long name="flag.11550" value="2000" />
+    <boolean name="flag.10462" value="false" />
+    <boolean name="flag.10582" value="true" />
+    <boolean name="flag.45357410" value="true" />
+    <long name="flag.45355115" value="1" />
+    <boolean name="flag.10438" value="true" />
+    <boolean name="flag.45365057" value="true" />
+    <string name="flag.17074">Pixel 6,Pixel 6 Pro,Pixel 6a,Pixel 7,Pixel 7 Pro,Pixel 7a,Pixel 8,Pixel 8 Pro,Pixel 8a</string>
+    <long name="flag.45388134" value="300" />
+    <boolean name="flag.4758" value="true" />
+    <boolean name="flag.10557" value="false" />
+    <boolean name="flag.45368204" value="true" />
+    <boolean name="flag.45357309" value="false" />
+    <long name="flag.45355248" value="200" />
+    <string name="GsaPrefs.Bisto__messaging_parsing_blacklist"></string>
+    <boolean name="flag.45372935" value="true" />
+    <boolean name="flag.17066" value="false" />
+    <boolean name="flag.45416981" value="true" />
+    <string name="GsaPrefs.AgsaOpaGrowth__supported_apps_for_overapp_suggestions_display">*</string>
+    <string name="flag.45376064">https://support.google.com/assistant/answer/7684543?hl=en&amp;ref_topic=10301145#</string>
+    <boolean name="flag.11655" value="true" />
+    <boolean name="flag.4626" value="false" />
+    <boolean name="flag.10441" value="false" />
+    <boolean name="flag.12861" value="true" />
+    <boolean name="flag.10202" value="false" />
+    <long name="flag.10680" value="0" />
+    <long name="flag.45377023" value="3000" />
+    <string name="flag.45358401">en-US,en-AU,en-CA,en-GB,en-IE,en-SG,ja-JP,de-DE,fr-FR,fr-CA,es-ES,es-US,it-IT,en-IN</string>
+    <boolean name="flag.45357436" value="false" />
+    <boolean name="flag.10259" value="true" />
+    <boolean name="flag.45360988" value="false" />
+    <boolean name="flag.45379481" value="false" />
+    <boolean name="flag.45360861" value="false" />
+    <boolean name="flag.11346" value="false" />
+    <boolean name="flag.14975" value="false" />
+    <boolean name="flag.45382657" value="true" />
+    <boolean name="flag.45368471" value="true" />
+    <boolean name="flag.45354296" value="true" />
+    <long name="flag.45372600" value="120" />
+    <boolean name="flag.45367128" value="false" />
+    <boolean name="flag.45367127" value="false" />
+    <boolean name="flag.45367126" value="false" />
+    <boolean name="flag.45357461" value="false" />
+    <long name="flag.45373925" value="3" />
+    <boolean name="flag.45357460" value="false" />
+    <long name="flag.45373926" value="4320" />
+    <boolean name="flag.45357463" value="false" />
+    <boolean name="flag.45357462" value="false" />
+    <boolean name="flag.11239" value="false" />
+    <string name="flag.14748"> </string>
+    <boolean name="flag.45384964" value="false" />
+    <string name="flag.11237">docs.google.com,&lt;286159512;com.wayfair.wayfair,*;https://www.wayfair.com/,*;wayfair.com,*</string>
+    <boolean name="flag.14746" value="false" />
+    <boolean name="flag.13657" value="false" />
+    <boolean name="flag.11235" value="true" />
+    <boolean name="flag.11236" value="true" />
+    <boolean name="flag.10026" value="true" />
+    <boolean name="flag.45369307" value="false" />
+    <long name="flag.10146" value="3" />
+    <long name="flag.12320" value="172800" />
+    <boolean name="flag.11232" value="true" />
+    <boolean name="flag.16912" value="false" />
+    <boolean name="flag.15704" value="false" />
+    <long name="GsaPrefs.AgsaOpaGrowth__nudge_ui_over_all_apps_display_cap" value="10000" />
+    <boolean name="flag.45362916" value="false" />
+    <boolean name="flag.8091" value="false" />
+    <long name="flag.45357333" value="600" />
+    <boolean name="flag.8098" value="false" />
+    <boolean name="flag.45357470" value="false" />
+    <long name="flag.45350718" value="5000" />
+    <boolean name="flag.45357471" value="false" />
+    <boolean name="flag.13748" value="false" />
+    <boolean name="flag.45368123" value="false" />
+    <string name="flag.13869">en-US,en-AU,en-CA,en-GB,en-IE,en-SG,en-IN,ja-JP,fr-CA,fr-FR,it-IT,de-DE,es-ES,es-MX,es-US</string>
+    <boolean name="flag.10236" value="true" />
+    <long name="flag.10357" value="5" />
+    <long name="flag.13864" value="3" />
+    <boolean name="flag.13863" value="true" />
+    <long name="flag.13742" value="1000" />
+    <boolean name="flag.10355" value="false" />
+    <boolean name="flag.16905" value="false" />
+    <boolean name="flag.16906" value="true" />
+    <boolean name="flag.45572112" value="true" />
+    <boolean name="flag.45357465" value="false" />
+    <boolean name="flag.45357464" value="false" />
+    <boolean name="flag.45357467" value="false" />
+    <boolean name="flag.45357466" value="false" />
+    <boolean name="flag.45357469" value="false" />
+    <boolean name="flag.45357468" value="false" />
+    <boolean name="flag.45354090" value="false" />
+    <boolean name="flag.45367148" value="false" />
+    <boolean name="flag.14848" value="true" />
+    <boolean name="flag.45381675" value="true" />
+    <long name="flag.12423" value="101000151" />
+    <boolean name="flag.45401329" value="true" />
+    <long name="flag.13874" value="2000" />
+    <string name="GsaPrefs.AgsaOpaGrowth__supported_apps_for_nudge_ui_display"></string>
+    <boolean name="flag.45368360" value="false" />
+    <boolean name="flag.12660" value="true" />
+    <long name="flag.45368361" value="0" />
+    <boolean name="flag.45360518" value="false" />
+    <long name="GsaPrefs.AgsaOpaGrowth__lock_screen_entry_point_dismiss_count_threshold" value="1" />
+    <long name="flag.45366645" value="0" />
+    <boolean name="flag.45366644" value="false" />
+    <string name="flag.45362040">5</string>
+    <boolean name="flag.45385287" value="false" />
+    <boolean name="flag.45386139" value="false" />
+    <boolean name="flag.13326" value="true" />
+    <boolean name="flag.16960" value="true" />
+    <long name="flag.10178" value="15" />
+    <boolean name="flag.10057" value="true" />
+    <string name="flag.12115">en-US,5005</string>
+    <boolean name="flag.10298" value="true" />
+    <boolean name="flag.13567" value="false" />
+    <string name="flag.14411">hi-IN:hi-IN,mr-IN:mr,bn-IN:bn,ta-IN:ta,te-IN:te,kn-IN:kn,ml-IN:ml,gu-IN:gu,ur-IN:ur,en-IN:en-IN</string>
+    <string name="flag.10055"></string>
+    <boolean name="flag.381373711" value="false" />
+    <boolean name="flag.12470" value="true" />
+    <boolean name="flag.45375595" value="false" />
+    <boolean name="flag.45362291" value="true" />
+    <boolean name="flag.9277" value="false" />
+    <long name="flag.45355501" value="500" />
+    <boolean name="flag.45351026" value="true" />
+    <boolean name="flag.9155" value="true" />
+    <long name="flag.45366875" value="0" />
+    <boolean name="flag.45366874" value="false" />
+    <long name="flag.45352370" value="90" />
+    <boolean name="flag.14669" value="true" />
+    <boolean name="flag.12008" value="true" />
+    <string name="flag.12129">en-US,en-AU,en-CA,en-GB,en-IE,en-SG,en-IN</string>
+    <boolean name="flag.45367969" value="true" />
+    <boolean name="flag.14668" value="true" />
+    <boolean name="flag.12126" value="false" />
+    <boolean name="flag.13216" value="false" />
+    <boolean name="flag.14667" value="true" />
+    <boolean name="flag.45369900" value="false" />
+    <boolean name="flag.14666" value="true" />
+    <boolean name="flag.45365788" value="false" />
+    <boolean name="flag.45367967" value="true" />
+    <boolean name="flag.45367966" value="false" />
+    <string name="flag.11155">,</string>
+    <long name="flag.8294" value="10" />
+    <long name="flag.45376797" value="15" />
+    <boolean name="flag.45352484" value="false" />
+    <boolean name="flag.45356729" value="false" />
+    <boolean name="flag.45352481" value="false" />
+    <string name="flag.45361071">20,30,31,33,54</string>
+    <long name="flag.45365215" value="0" />
+    <string name="GsaPrefs.Bisto__enabled_features">,184,190,194,200,202,204,206,220,237,240,241,242,244,250,251,252</string>
+    <long name="flag.45366541" value="0" />
+    <boolean name="flag.45366540" value="false" />
+    <long name="flag.45352380" value="1" />
+    <boolean name="flag.14759" value="false" />
+    <boolean name="flag.14517" value="true" />
+    <string name="flag.13788">ja-JP</string>
+    <boolean name="flag.45365216" value="false" />
+    <string name="flag.14875">en-US,en-AU,en-CA,en-GB,en-IE,en-SG,en-IN,de-DE,ja-JP</string>
+    <boolean name="flag.12452" value="false" />
+    <boolean name="flag.45351047" value="true" />
+    <boolean name="flag.45375015" value="true" />
+    <boolean name="flag.12451" value="true" />
+    <boolean name="flag.16704" value="false" />
+    <boolean name="flag.438221736" value="false" />
+    <boolean name="flag.16705" value="false" />
+    <boolean name="flag.16706" value="false" />
+    <boolean name="flag.8167" value="true" />
+    <long name="flag.9377" value="50" />
+    <boolean name="flag.45356853" value="true" />
+    <boolean name="flag.45376106" value="true" />
+    <boolean name="flag.45352138" value="true" />
+    <boolean name="GsaPrefs.AgsaOpaComms__enable_message_style_parser_for_facebook_messenger" value="true" />
+    <boolean name="flag.13316" value="true" />
+    <long name="flag.11134" value="1440" />
+    <boolean name="flag.45365447" value="false" />
+    <boolean name="flag.15602" value="false" />
+    <string name="flag.45353473"></string>
+    <long name="flag.10161" value="51032000" />
+    <long name="flag.10160" value="453039" />
+    <boolean name="flag.45429766" value="true" />
+    <long name="flag.45354442" value="2" />
+    <boolean name="flag.45353239" value="false" />
+    <long name="flag.45386490" value="200" />
+    <boolean name="flag.45369716" value="false" />
+    <boolean name="flag.45363294" value="false" />
+    <boolean name="flag.45388596" value="true" />
+    <boolean name="flag.45367772" value="false" />
+    <boolean name="flag.16883" value="true" />
+    <boolean name="flag.14337" value="false" />
+    <boolean name="flag.16884" value="true" />
+    <boolean name="flag.12157" value="false" />
+    <boolean name="flag.45368988" value="false" />
+    <long name="flag.15313" value="2000" />
+    <boolean name="flag.16767" value="false" />
+    <boolean name="flag.14453" value="false" />
+    <string name="flag.16768">LIGHTBULB_RED_DOT</string>
+    <long name="flag.14330" value="3600000" />
+    <boolean name="flag.13361" value="true" />
+    <boolean name="flag.14691" value="false" />
+    <boolean name="flag.11182" value="false" />
+    <string name="flag.8384">en-US,en-AU,en-CA,en-GB,en-IE,en-SG</string>
+    <boolean name="flag.9351" value="false" />
+    <boolean name="flag.45355425" value="false" />
+    <long name="flag.45402119" value="5000" />
+    <boolean name="flag.9459" value="true" />
+    <boolean name="flag.45351082" value="false" />
+    <boolean name="flag.45351083" value="false" />
+    <boolean name="flag.45351081" value="false" />
+    <boolean name="flag.16871" value="true" />
+    <boolean name="flag.16753" value="false" />
+    <boolean name="flag.15422" value="false" />
+    <string name="flag.12168">com.google.android.apps.nexuslauncher</string>
+    <long name="flag.45375024" value="14" />
+    <boolean name="flag.45379622" value="false" />
+    <string name="GsaPrefs.Bisto__user_group_name">Public</string>
+    <boolean name="flag.45375269" value="false" />
+    <string name="flag.45376110">https://support.google.com/assistant/answer/9134021?hl=en&amp;ref_topic=10301145</string>
+    <boolean name="flag.9344" value="false" />
+    <long name="flag.45363293" value="0" />
+    <boolean name="flag.45363292" value="false" />
+    <boolean name="flag.9588" value="true" />
+    <boolean name="flag.9342" value="true" />
+    <boolean name="flag.45366467" value="true" />
+    <boolean name="flag.45371818" value="false" />
+    <string name="flag.45372906">0</string>
+    <boolean name="flag.13109" value="false" />
+    <string name="flag.14559"></string>
+    <boolean name="flag.15531" value="false" />
+    <long name="flag.13226" value="1000" />
+    <boolean name="flag.16865" value="false" />
+    <boolean name="flag.10075" value="true" />
+    <string name="flag.45356779">en-US,en-AU,en-CA,en-GB,en-IE,ja-JP,de-DE</string>
+    <boolean name="flag.45357508" value="false" />
+    <boolean name="flag.45353388" value="false" />
+    <long name="flag.45351086" value="50" />
+    <boolean name="flag.10072" value="true" />
+    <string name="flag.9336"></string>
+    <boolean name="flag.45369727" value="false" />
+    <boolean name="flag.45385075" value="false" />
+    <string name="flag.45366697">9,140,83,40,96,18,141,63</string>
+    <string name="flag.45367786"></string>
+    <boolean name="flag.45367785" value="false" />
+    <long name="flag.9799" value="9999999" />
+    <boolean name="flag.8105" value="false" />
+    <long name="flag.14329" value="60000" />
+    <boolean name="flag.45368632" value="false" />
+    <boolean name="flag.14328" value="false" />
+    <boolean name="flag.45380741" value="false" />
+    <boolean name="flag.14568" value="false" />
+    <boolean name="flag.13116" value="true" />
+    <string name="flag.14205">*=nga_canteen_03_01;en=nga_pop,nga_canteen_03_01;de-de,ja-jp+5c308c430ed971b4+600538c8cd624278+c98dc59e8555d955+2829a707a97b89dd+dd3cb4347e8f60f8+57f845b93339de8f=nga_cortex_4,nga_canteen_03_01,nga_soda;fr-FR,fr-CA,es-ES,es-US,it-IT+2829a707a97b89dd+dd3cb4347e8f60f8+57f845b93339de8f=nga_soda,nga_canteen_03_01;ja-jp=nga_canteen_03_01,nga_pop;de-de=nga_canteen_03_01,nga_pop</string>
+    <boolean name="flag.45365249" value="false" />
+    <boolean name="flag.45389319" value="true" />
+    <string name="flag.13477"></string>
+    <long name="flag.15402" value="10" />
+    <boolean name="flag.13234" value="false" />
+    <boolean name="flag.16612" value="true" />
+    <boolean name="flag.45380867" value="true" />
+    <long name="flag.10085" value="0" />
+    <boolean name="flag.16613" value="true" />
+    <long name="flag.14201" value="3000" />
+    <string name="flag.45360917"></string>
+    <string name="flag.11298">com.google.android.calendar,*;com.wayfair.wayfair,*;com.google.android.apps.messaging,*</string>
+    <boolean name="flag.45354009" value="false" />
+    <boolean name="flag.14561" value="false" />
+    <long name="flag.11172" value="0" />
+    <long name="flag.12262" value="101000151" />
+    <boolean name="flag.12380" value="true" />
+    <boolean name="flag.8234" value="true" />
+    <string name="flag.9201">GetAlarmInfo,CreateAlarm,DisableAlarm,SilenceAlarm,SnoozeAlarm,SendMessage,Permissions</string>
+    <long name="GsaPrefs.AgsaOpaGrowth__overapp_suggestions_shown_per_app_display_cap" value="3" />
+    <boolean name="flag.45355455" value="false" />
+    <string name="flag.9560">gmail,assisted_browse</string>
+    <boolean name="flag.9684" value="true" />
+    <boolean name="flag.9200" value="false" />
+</map>

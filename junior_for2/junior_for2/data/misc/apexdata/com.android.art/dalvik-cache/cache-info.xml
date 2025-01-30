@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cacheInfo>
+    <systemProperties>
+        <item k="persist.device_config.runtime_native_boot.odrefresh_test_toggle" v="false">
+        </item>
+        <item k="persist.device_config.runtime_native_boot.systemservercompilerfilter_override" v="">
+        </item>
+        <item k="persist.device_config.runtime_native_boot.force_disable_uffd_gc" v="false">
+        </item>
+        <item k="persist.device_config.runtime_native_boot.enable_uffd_gc_2" v="false">
+        </item>
+        <item k="dalvik.vm.dex2oat-resolve-startup-strings" v="true">
+        </item>
+        <item k="dalvik.vm.dex2oat-max-image-block-size" v="524288">
+        </item>
+        <item k="dalvik.vm.usap_pool_refill_delay_ms" v="3000">
+        </item>
+        <item k="dalvik.vm.usap_refill_threshold" v="1">
+        </item>
+        <item k="dalvik.vm.heaptargetutilization" v="0.75">
+        </item>
+        <item k="dalvik.vm.dex2oat-minidebuginfo" v="true">
+        </item>
+        <item k="dalvik.vm.usap_pool_size_min" v="1">
+        </item>
+        <item k="dalvik.vm.usap_pool_size_max" v="3">
+        </item>
+        <item k="dalvik.vm.usap_pool_enabled" v="false">
+        </item>
+        <item k="dalvik.vm.image-dex2oat-Xms" v="64m">
+        </item>
+        <item k="dalvik.vm.enable_pr_dexopt" v="true">
+        </item>
+        <item k="ro.dalvik.vm.isa.arm" v="x86">
+        </item>
+        <item k="dalvik.vm.dexopt.secondary" v="true">
+        </item>
+        <item k="dalvik.vm.heapstartsize" v="8m">
+        </item>
+        <item k="dalvik.vm.minidebuginfo" v="true">
+        </item>
+        <item k="dalvik.vm.heapminfree" v="512k">
+        </item>
+        <item k="ro.dalvik.vm.enable_uffd_gc" v="true">
+        </item>
+        <item k="dalvik.vm.madvise.odexfile.size" v="104857600">
+        </item>
+        <item k="dalvik.vm.heapmaxfree" v="8m">
+        </item>
+        <item k="dalvik.vm.dex2oat-Xms" v="64m">
+        </item>
+        <item k="dalvik.vm.dexopt.thermal-cutoff" v="2">
+        </item>
+        <item k="dalvik.vm.useartservice" v="true">
+        </item>
+        <item k="dalvik.vm.dex2oat64.enabled" v="true">
+        </item>
+        <item k="dalvik.vm.madvise.artfile.size" v="4294967295">
+        </item>
+        <item k="dalvik.vm.lockprof.threshold" v="500">
+        </item>
+        <item k="dalvik.vm.image-dex2oat-Xmx" v="64m">
+        </item>
+        <item k="dalvik.vm.madvise.vdexfile.size" v="104857600">
+        </item>
+        <item k="dalvik.vm.isa.x86_64.variant" v="x86_64">
+        </item>
+        <item k="dalvik.vm.heapsize" v="512m">
+        </item>
+        <item k="dalvik.vm.usejit" v="true">
+        </item>
+        <item k="dalvik.vm.heapgrowthlimit" v="192m">
+        </item>
+        <item k="dalvik.vm.appimageformat" v="lz4">
+        </item>
+        <item k="dalvik.vm.isa.x86_64.features" v="default">
+        </item>
+        <item k="dalvik.vm.dex2oat-Xmx" v="512m">
+        </item>
+        <item k="ro.dalvik.vm.native.bridge" v="libndk_translation.so">
+        </item>
+        <item k="ro.dalvik.vm.isa.arm64" v="x86_64">
+        </item>
+    </systemProperties>
+    <artModuleInfo name="com.android.art" versionCode="350820300" versionName="" lastUpdateMillis="1736236562">
+    </artModuleInfo>
+    <moduleInfoList>
+        <moduleInfo name="com.android.adservices" versionCode="350820260" versionName="" lastUpdateMillis="1736236561">
+        </moduleInfo>
+        <moduleInfo name="com.android.appsearch" versionCode="350820300" versionName="" lastUpdateMillis="1736236560">
+        </moduleInfo>
+        <moduleInfo name="com.android.art" versionCode="350820300" versionName="" lastUpdateMillis="1736236562">
+        </moduleInfo>
+        <moduleInfo name="com.android.btservices" versionCode="342010060" versionName="" lastUpdateMillis="1723659151">
+        </moduleInfo>
+        <moduleInfo name="com.android.compos" versionCode="2" versionName="" lastUpdateMillis="1723659143">
+        </moduleInfo>
+        <moduleInfo name="com.android.configinfrastructure" versionCode="350820300" versionName="" lastUpdateMillis="1736236562">
+        </moduleInfo>
+        <moduleInfo name="com.android.conscrypt" versionCode="350820300" versionName="" lastUpdateMillis="1736236561">
+        </moduleInfo>
+        <moduleInfo name="com.android.devicelock" versionCode="1" versionName="" lastUpdateMillis="1723659149">
+        </moduleInfo>
+        <moduleInfo name="com.android.healthfitness" versionCode="350820300" versionName="" lastUpdateMillis="1736236561">
+        </moduleInfo>
+        <moduleInfo name="com.android.i18n" versionCode="1" versionName="" lastUpdateMillis="1723658715">
+        </moduleInfo>
+        <moduleInfo name="com.android.ipsec" versionCode="350820300" versionName="" lastUpdateMillis="1736236560">
+        </moduleInfo>
+        <moduleInfo name="com.android.media" versionCode="350820300" versionName="" lastUpdateMillis="1736236560">
+        </moduleInfo>
+        <moduleInfo name="com.android.mediaprovider" versionCode="350820300" versionName="" lastUpdateMillis="1736236561">
+        </moduleInfo>
+        <moduleInfo name="com.android.nfcservices" versionCode="352090000" versionName="" lastUpdateMillis="1723658855">
+        </moduleInfo>
+        <moduleInfo name="com.android.ondevicepersonalization" versionCode="350820260" versionName="" lastUpdateMillis="1736236563">
+        </moduleInfo>
+        <moduleInfo name="com.android.os.statsd" versionCode="350820260" versionName="" lastUpdateMillis="1736236560">
+        </moduleInfo>
+        <moduleInfo name="com.android.permission" versionCode="350820360" versionName="" lastUpdateMillis="1736236562">
+        </moduleInfo>
+        <moduleInfo name="com.android.profiling" versionCode="352090000" versionName="" lastUpdateMillis="1736236560">
+        </moduleInfo>
+        <moduleInfo name="com.android.rkpd" versionCode="350820300" versionName="" lastUpdateMillis="1736236560">
+        </moduleInfo>
+        <moduleInfo name="com.android.scheduling" versionCode="350820300" versionName="" lastUpdateMillis="1736236560">
+        </moduleInfo>
+        <moduleInfo name="com.android.sdkext" versionCode="350820300" versionName="" lastUpdateMillis="1736236560">
+        </moduleInfo>
+        <moduleInfo name="com.android.tethering" versionCode="350820300" versionName="" lastUpdateMillis="1736236562">
+        </moduleInfo>
+        <moduleInfo name="com.android.uwb" versionCode="350820300" versionName="" lastUpdateMillis="1736236561">
+        </moduleInfo>
+        <moduleInfo name="com.android.virt" versionCode="2" versionName="" lastUpdateMillis="1723659610">
+        </moduleInfo>
+        <moduleInfo name="com.android.wifi" versionCode="350820300" versionName="" lastUpdateMillis="1736236563">
+        </moduleInfo>
+    </moduleInfoList>
+    <bootClasspath>
+        <component file="/apex/com.android.art/javalib/core-oj.jar" size="5837468" checksums="43aafb9d">
+        </component>
+        <component file="/apex/com.android.art/javalib/core-libart.jar" size="576337" checksums="f421b698">
+        </component>
+        <component file="/apex/com.android.art/javalib/okhttp.jar" size="409301" checksums="0e75d1dd">
+        </component>
+        <component file="/apex/com.android.art/javalib/bouncycastle.jar" size="739861" checksums="da0d2f2a">
+        </component>
+        <component file="/apex/com.android.art/javalib/apache-xml.jar" size="1216856" checksums="73f55c6b">
+        </component>
+        <component file="/system/framework/framework.jar" size="43302820" checksums="6cfa495f">
+        </component>
+        <component file="/system/framework/framework-graphics.jar" size="4073" checksums="976a168a">
+        </component>
+        <component file="/system/framework/framework-location.jar" size="372077" checksums="6ce4a37f">
+        </component>
+        <component file="/system/framework/ext.jar" size="2292047" checksums="d4027f48">
+        </component>
+        <component file="/system/framework/telephony-common.jar" size="4871956" checksums="d649b60d">
+        </component>
+        <component file="/system/framework/voip-common.jar" size="823881" checksums="730e1d2a">
+        </component>
+        <component file="/system/framework/ims-common.jar" size="607445" checksums="bdf17ef2">
+        </component>
+        <component file="/apex/com.android.i18n/javalib/core-icu4j.jar" size="3001808" checksums="1667f4bb">
+        </component>
+        <component file="/apex/com.android.adservices/javalib/framework-adservices.jar" size="503177" checksums="317ddfd0">
+        </component>
+        <component file="/apex/com.android.adservices/javalib/framework-sdksandbox.jar" size="103313" checksums="7b39a214">
+        </component>
+        <component file="/apex/com.android.appsearch/javalib/framework-appsearch.jar" size="329789" checksums="939e1651">
+        </component>
+        <component file="/apex/com.android.btservices/javalib/framework-bluetooth.jar" size="1232126" checksums="fef5146c">
+        </component>
+        <component file="/apex/com.android.configinfrastructure/javalib/framework-configinfrastructure.jar" size="157873" checksums="0dd5fe2c">
+        </component>
+        <component file="/apex/com.android.conscrypt/javalib/conscrypt.jar" size="493645" checksums="da895215">
+        </component>
+        <component file="/apex/com.android.devicelock/javalib/framework-devicelock.jar" size="31113" checksums="6fcd54d8">
+        </component>
+        <component file="/apex/com.android.healthfitness/javalib/framework-healthfitness.jar" size="662921" checksums="e5ad131e">
+        </component>
+        <component file="/apex/com.android.ipsec/javalib/android.net.ipsec.ike.jar" size="752693" checksums="f402b554">
+        </component>
+        <component file="/apex/com.android.media/javalib/updatable-media.jar" size="776784" checksums="1692c22e">
+        </component>
+        <component file="/apex/com.android.mediaprovider/javalib/framework-mediaprovider.jar" size="116945" checksums="298df395">
+        </component>
+        <component file="/apex/com.android.mediaprovider/javalib/framework-pdf.jar" size="87021" checksums="c235cdf3">
+        </component>
+        <component file="/apex/com.android.mediaprovider/javalib/framework-pdf-v.jar" size="11257" checksums="1be0b4e5">
+        </component>
+        <component file="/apex/com.android.nfcservices/javalib/framework-nfc.jar" size="236941" checksums="e009c23e">
+        </component>
+        <component file="/apex/com.android.ondevicepersonalization/javalib/framework-ondevicepersonalization.jar" size="284397" checksums="c51cac56">
+        </component>
+        <component file="/apex/com.android.os.statsd/javalib/framework-statsd.jar" size="102665" checksums="cc876c87">
+        </component>
+        <component file="/apex/com.android.permission/javalib/framework-permission.jar" size="1089" checksums="0e939e3a">
+        </component>
+        <component file="/apex/com.android.permission/javalib/framework-permission-s.jar" size="248289" checksums="36e38acb">
+        </component>
+        <component file="/apex/com.android.profiling/javalib/framework-profiling.jar" size="32013" checksums="8f8d9243">
+        </component>
+        <component file="/apex/com.android.scheduling/javalib/framework-scheduling.jar" size="13321" checksums="8b17379d">
+        </component>
+        <component file="/apex/com.android.sdkext/javalib/framework-sdkextensions.jar" size="7665" checksums="fc5501ec">
+        </component>
+        <component file="/apex/com.android.tethering/javalib/framework-connectivity.jar" size="1930011" checksums="4b55702d">
+        </component>
+        <component file="/apex/com.android.tethering/javalib/framework-connectivity-t.jar" size="468985" checksums="0e81e6eb">
+        </component>
+        <component file="/apex/com.android.tethering/javalib/framework-tethering.jar" size="71349" checksums="944cc850">
+        </component>
+        <component file="/apex/com.android.uwb/javalib/framework-uwb.jar" size="152613" checksums="a5708ef6">
+        </component>
+        <component file="/apex/com.android.virt/javalib/framework-virtualization.jar" size="138837" checksums="1cba5bb7">
+        </component>
+        <component file="/apex/com.android.wifi/javalib/framework-wifi.jar" size="1301533" checksums="d715f051">
+        </component>
+    </bootClasspath>
+    <dex2oatBootClasspath>
+        <component file="/apex/com.android.art/javalib/core-oj.jar" size="5837468" checksums="43aafb9d">
+        </component>
+        <component file="/apex/com.android.art/javalib/core-libart.jar" size="576337" checksums="f421b698">
+        </component>
+        <component file="/apex/com.android.art/javalib/okhttp.jar" size="409301" checksums="0e75d1dd">
+        </component>
+        <component file="/apex/com.android.art/javalib/bouncycastle.jar" size="739861" checksums="da0d2f2a">
+        </component>
+        <component file="/apex/com.android.art/javalib/apache-xml.jar" size="1216856" checksums="73f55c6b">
+        </component>
+        <component file="/system/framework/framework.jar" size="43302820" checksums="6cfa495f">
+        </component>
+        <component file="/system/framework/framework-graphics.jar" size="4073" checksums="976a168a">
+        </component>
+        <component file="/system/framework/framework-location.jar" size="372077" checksums="6ce4a37f">
+        </component>
+        <component file="/system/framework/ext.jar" size="2292047" checksums="d4027f48">
+        </component>
+        <component file="/system/framework/telephony-common.jar" size="4871956" checksums="d649b60d">
+        </component>
+        <component file="/system/framework/voip-common.jar" size="823881" checksums="730e1d2a">
+        </component>
+        <component file="/system/framework/ims-common.jar" size="607445" checksums="bdf17ef2">
+        </component>
+        <component file="/apex/com.android.i18n/javalib/core-icu4j.jar" size="3001808" checksums="1667f4bb">
+        </component>
+    </dex2oatBootClasspath>
+    <systemServerComponents>
+        <component file="/system/framework/com.android.location.provider.jar" size="32322" checksums="cb7ee824" isInClasspath="true">
+        </component>
+        <component file="/system/framework/services.jar" size="21446324" checksums="06b2e367" isInClasspath="true">
+        </component>
+        <component file="/apex/com.android.adservices/javalib/service-adservices.jar" size="89834" checksums="11c430df" isInClasspath="true">
+        </component>
+        <component file="/apex/com.android.adservices/javalib/service-sdksandbox.jar" size="254470" checksums="96176550" isInClasspath="true">
+        </component>
+        <component file="/apex/com.android.appsearch/javalib/service-appsearch.jar" size="847991" checksums="d0674e75" isInClasspath="true">
+        </component>
+        <component file="/apex/com.android.art/javalib/service-art.jar" size="484270" checksums="65dcbdb1" isInClasspath="true">
+        </component>
+        <component file="/apex/com.android.compos/javalib/service-compos.jar" size="20386" checksums="f72cd6ca" isInClasspath="true">
+        </component>
+        <component file="/apex/com.android.configinfrastructure/javalib/service-configinfrastructure.jar" size="287963" checksums="02b17035" isInClasspath="true">
+        </component>
+        <component file="/apex/com.android.healthfitness/javalib/service-healthfitness.jar" size="427050" checksums="cfbb825d" isInClasspath="true">
+        </component>
+        <component file="/apex/com.android.media/javalib/service-media-s.jar" size="21202" checksums="c0722033" isInClasspath="true">
+        </component>
+        <component file="/apex/com.android.ondevicepersonalization/javalib/service-ondevicepersonalization.jar" size="10474" checksums="0870d935" isInClasspath="true">
+        </component>
+        <component file="/apex/com.android.permission/javalib/service-permission.jar" size="509287" checksums="4d67749b" isInClasspath="true">
+        </component>
+        <component file="/apex/com.android.rkpd/javalib/service-rkp.jar" size="32330" checksums="8488479a" isInClasspath="true">
+        </component>
+        <component file="/apex/com.android.virt/javalib/service-virtualization.jar" size="17898" checksums="a78f952c" isInClasspath="true">
+        </component>
+        <component file="/apex/com.android.btservices/javalib/service-bluetooth.jar" size="871469" checksums="b643a1ea" isInClasspath="false">
+        </component>
+        <component file="/apex/com.android.devicelock/javalib/service-devicelock.jar" size="86854" checksums="a3d2cf05" isInClasspath="false">
+        </component>
+        <component file="/apex/com.android.os.statsd/javalib/service-statsd.jar" size="40374" checksums="6656e280" isInClasspath="false">
+        </component>
+        <component file="/apex/com.android.profiling/javalib/service-profiling.jar" size="486766" checksums="bff1845d" isInClasspath="false">
+        </component>
+        <component file="/apex/com.android.scheduling/javalib/service-scheduling.jar" size="40017" checksums="d1e5c2e6" isInClasspath="false">
+        </component>
+        <component file="/apex/com.android.tethering/javalib/service-connectivity.jar" size="1761269" checksums="9cf5db79" isInClasspath="false">
+        </component>
+        <component file="/apex/com.android.uwb/javalib/service-uwb.jar" size="983523" checksums="6a631160" isInClasspath="false">
+        </component>
+        <component file="/apex/com.android.wifi/javalib/service-wifi.jar" size="5066014" checksums="d6495d13" isInClasspath="false">
+        </component>
+    </systemServerComponents>
+</cacheInfo>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="sim_operator">310260</string>
+    <string name="default_sim_subscription_info">ChQ4OTg2MDMxODY0MDIyMDEzMzg5NxABGAAiDzMxMDI2MDAwMDAwMDAwMCoMKzE1NTUxMjM0NTY3&#10;MgJVUzoIVC1Nb2JpbGVCAEoDMzEwUgMyNjBYAWIUODk4NjAzMTg2NDAyMjAxMzM4OTdoAHIkY2Rj&#10;YmNmZmMtYjQ5MC00YzNjLTlkMTYtZTg2Y2I3Njc5Y2MyegwrMTU1NTEyMzQ1NjeCAQhULU1vYmls&#10;ZYoBBjMxMDI2MJIBAJoBCFQtTW9iaWxl&#10;    </string>
+    <int name="sub_id" value="1" />
+    <string name="default_data_sim_subscription_info">ChQ4OTg2MDMxODY0MDIyMDEzMzg5NxABGAAiDzMxMDI2MDAwMDAwMDAwMCoMKzE1NTUxMjM0NTY3&#10;MgJVUzoIVC1Nb2JpbGVCAEoDMzEwUgMyNjBYAWIUODk4NjAzMTg2NDAyMjAxMzM4OTdoAHIkY2Rj&#10;YmNmZmMtYjQ5MC00YzNjLTlkMTYtZTg2Y2I3Njc5Y2MyegwrMTU1NTEyMzQ1NjeCAQhULU1vYmls&#10;ZYoBBjMxMDI2MJIBAJoBCFQtTW9iaWxl&#10;    </string>
+    <set name="active_sim_ids">
+        <string>89860318640220133897</string>
+    </set>
+    <boolean name="is_fi_device" value="false" />
+    <string name="sim_operator_name">T-Mobile</string>
+    <string name="imsi">310260000000000</string>
+    <string name="formatted_msisdn"></string>
+    <string name="group_id_level1"></string>
+    <string name="sim_loggable_guid_89860318640220133897">cdcbcffc-b490-4c3c-9d16-e86cb7679cc2</string>
+    <string name="sim_subscription_info_sub_id_1">ChQ4OTg2MDMxODY0MDIyMDEzMzg5NxABGAAiDzMxMDI2MDAwMDAwMDAwMCoMKzE1NTUxMjM0NTY3&#10;MgJVUzoIVC1Nb2JpbGVCAEoDMzEwUgMyNjBYAWIUODk4NjAzMTg2NDAyMjAxMzM4OTdoAHIkY2Rj&#10;YmNmZmMtYjQ5MC00YzNjLTlkMTYtZTg2Y2I3Njc5Y2MyegwrMTU1NTEyMzQ1NjeCAQhULU1vYmls&#10;ZYoBBjMxMDI2MJIBAJoBCFQtTW9iaWxl&#10;    </string>
+    <string name="sim_id">89860318640220133897</string>
+    <string name="sim_subscription_info_sim_id_89860318640220133897">ChQ4OTg2MDMxODY0MDIyMDEzMzg5NxABGAAiDzMxMDI2MDAwMDAwMDAwMCoMKzE1NTUxMjM0NTY3&#10;MgJVUzoIVC1Nb2JpbGVCAEoDMzEwUgMyNjBYAWIUODk4NjAzMTg2NDAyMjAxMzM4OTdoAHIkY2Rj&#10;YmNmZmMtYjQ5MC00YzNjLTlkMTYtZTg2Y2I3Njc5Y2MyegwrMTU1NTEyMzQ1NjeCAQhULU1vYmls&#10;ZYoBBjMxMDI2MJIBAJoBCFQtTW9iaWxl&#10;    </string>
+    <string name="raw_msisdn">+15551234567</string>
+    <string name="sim_serial_number">89860318640220133897</string>
+    <int name="slot_index" value="0" />
+    <string name="network_operator_name">T-Mobile</string>
+    <string name="default_sms_sim_subscription_info">ChQ4OTg2MDMxODY0MDIyMDEzMzg5NxABGAAiDzMxMDI2MDAwMDAwMDAwMCoMKzE1NTUxMjM0NTY3&#10;MgJVUzoIVC1Nb2JpbGVCAEoDMzEwUgMyNjBYAWIUODk4NjAzMTg2NDAyMjAxMzM4OTdoAHIkY2Rj&#10;YmNmZmMtYjQ5MC00YzNjLTlkMTYtZTg2Y2I3Njc5Y2MyegwrMTU1NTEyMzQ1NjeCAQhULU1vYmls&#10;ZYoBBjMxMDI2MJIBAJoBCFQtTW9iaWxl&#10;    </string>
+</map>

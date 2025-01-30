@@ -1,0 +1,9 @@
+package com.google.firebase.components;
+
+import java.util.List;
+
+/* compiled from: com.google.firebase:firebase-components@@16.0.0 */
+/* loaded from: classes2.dex */
+public interface h {
+    List<d<?>> getComponents();
+}

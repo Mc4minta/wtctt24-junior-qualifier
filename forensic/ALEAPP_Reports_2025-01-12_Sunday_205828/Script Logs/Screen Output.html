@@ -1,0 +1,73 @@
+Processing started. Please wait. This may take a few minutes...<br>
+
+--------------------------------------------------------------------------------------<br>
+ALEAPP v3.2.5: ALEAPP Logs, Events, and Protobuf Parser<br>
+Objective: Triage Android Full System Extractions.<br>
+By: Alexis Brignoni | @AlexisBrignoni | abrignoni.com<br>
+By: Yogesh Khatri   | @SwiftForensics | swiftforensics.com
+<br>
+Info: 288 modules loaded.<br>
+Artifact categories to parse: 287<br>
+File/Directory selected: C:/Matin/matin-ctf/running/writeup/junior_for1.zip<br>
+
+--------------------------------------------------------------------------------------<br>
+<br>
+Chrome [chrome] artifact started<br>
+No Chrome - Search Terms data available<br>
+No Chrome - Keyword Search Terms data available<br>
+Chrome [chrome] artifact completed<br>
+<br>
+ChromeAutofill [chromeAutofill] artifact started<br>
+No Chrome - Autofill - Entries data available<br>
+Reading ChromeAutofill artifact had errors!<br>
+Error was no such table: autofill_profiles<br>
+Exception Traceback: Traceback (most recent call last):
+  File "aleapp.py", line 378, in crunch_artifacts
+  File "C:\Users\User\AppData\Local\Temp\_MEI86042\scripts\artifacts\chromeAutofill.py", line 98, in get_chromeAutofill
+    cursor.execute(f'''
+sqlite3.OperationalError: no such table: autofill_profiles
+<br>
+<br>
+ChromeCookies [chromeCookies] artifact started<br>
+ChromeCookies [chromeCookies] artifact completed<br>
+<br>
+ChromeDIPS [chromeDIPS] artifact started<br>
+ChromeDIPS [chromeDIPS] artifact completed<br>
+<br>
+ChromeLoginData [chromeLoginData] artifact started<br>
+No Chrome - Login Data available<br>
+ChromeLoginData [chromeLoginData] artifact completed<br>
+<br>
+ChromeNetworkActionPredictor [chromeNetworkActionPredictor] artifact started<br>
+No Chrome - Network Action Predictor data available<br>
+ChromeNetworkActionPredictor [chromeNetworkActionPredictor] artifact completed<br>
+<br>
+ChromeOfflinePages [chromeOfflinePages] artifact started<br>
+ChromeOfflinePages [chromeOfflinePages] artifact completed<br>
+<br>
+ChromeTopSites [chromeTopSites] artifact started<br>
+No Chrome - Top Sites data available<br>
+ChromeTopSites [chromeTopSites] artifact completed<br>
+<br>
+ImagemngCache [imagemngCache] artifact started<br>
+ImagemngCache [imagemngCache] artifact completed<br>
+<br>
+pages [offlinePages] artifact started<br>
+Reading pages artifact had errors!<br>
+Error was utcfromtimestamp() takes no keyword arguments<br>
+Exception Traceback: Traceback (most recent call last):
+  File "aleapp.py", line 378, in crunch_artifacts
+  File "C:\Users\User\AppData\Local\Temp\_MEI86042\scripts\artifacts\offlinePages.py", line 27, in get_offlinePages
+    utc_modified_date = datetime.utcfromtimestamp(modified_time, tz=timezone.utc)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: utcfromtimestamp() takes no keyword arguments
+<br>
+<br>
+Processes completed.<br>
+Processing time = 00:00:00<br>
+Processing time (wall)= 00:00:00<br>
+<br>
+Report generation started.<br>
+Report generation Completed.<br>
+<br>
+Report location: C:\Matin\matin-ctf\running\writeup\forensic\ALEAPP_Reports_2025-01-12_Sunday_205828<br>

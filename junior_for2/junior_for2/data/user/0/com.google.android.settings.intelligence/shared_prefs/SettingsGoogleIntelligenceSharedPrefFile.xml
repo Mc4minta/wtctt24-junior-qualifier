@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="BatteryUsage__is_force_hide_reattribute_source_item" value="true" />
+    <boolean name="BatteryUsage__is_app_optimization_mode_logged" value="true" />
+    <long name="GmscoreproxyConfig__get_fast_pair_items_timeout_ms" value="10000" />
+    <string name="BatteryWidget__stylus_model_name">CgNiODA</string>
+    <string name="SliceIndexing__blacklisted_uris">Cjdjb250ZW50Oi8vY29tLmFuZHJvaWQuc2V0dGluZ3Muc2xpY2VzL2FjdGlvbi9mbGFzaGxpZ2h0</string>
+    <string name="SearchAnalytics__fa_population_name">android_settings/search_analytics/prod</string>
+    <long name="SearchIndexing__index_task_timeout_ms" value="5000" />
+    <boolean name="BatteryUsage__is_battery_usage_disabled" value="false" />
+    <long name="RoutinesPrototype__inference_engine_max_rank_for_notification" value="3" />
+    <long name="SmartSearchRanking__ranking_task_timeout_ms" value="2000" />
+    <float name="BatteryUsage__battery_usage_list_screen_on_time_threshold_in_ms" value="100.0" />
+    <boolean name="CcaConfig__is_enabled" value="true" />
+    <string name="SearchHighlightableMenu__authority_to_menu_key_pair">CiVjb20uYW5kcm9pZC5wZXJtaXNzaW9uY29udHJvbGxlci5yb2xlCg50b3BfbGV2ZWxfYXBwcw</string>
+    <long name="SuggestionRanking__max_suggestion_display_count" value="2" />
+    <boolean name="SmartSearchRanking__is_hybrid_ranking_enabled" value="true" />
+    <float name="RoutinesPrototype__routine_inference_min_confidence" value="0.6" />
+    <boolean name="SearchConversationalCare__enable_rank_boost_cc" value="false" />
+    <string name="BatteryWidget__pixel_watch_model_names">CgV3YXRjaAoDcjExCgNlb3M</string>
+    <long name="RoutinesPrototype__notification_timeout_period_minutes" value="60" />
+    <boolean name="SearchConnectedDevicesResults__show_connected_devices" value="false" />
+    <long name="SearchConversationalCare__reuse_previous_response_age_ms" value="86400000" />
+    <float name="SearchQuery__min_breadcrumb_layer_width" value="100.0" />
+    <long name="RoutinesPrototype__inference_engine_dbscan_min_pts" value="5" />
+    <boolean name="RoutinesPrototype__is_collection_enabled" value="true" />
+    <boolean name="BatteryUsage__is_battery_usage_reattribute_enabled" value="false" />
+    <string name="SmartSearchRanking__special_ia_setting_keys">ChBtYWluX3RvZ2dsZV93aWZpChVtYWluX3RvZ2dsZV9ibHVldG9vdGgKHm1haW5fdG9nZ2xlX2JsdWV0b290aF9vYnNvbGV0ZQoaYmx1ZXRvb3RoX3N3aXRjaGJhcl9zY3JlZW4KD3RvZ2dsZV9haXJwbGFuZQoNYmF0dGVyeV9zYXZlcgoPemVuX21vZGVfdG9nZ2xlChNyZXN0cmljdF9iYWNrZ3JvdW5kChFkYXRhX3VzYWdlX2VuYWJsZQoSYnV0dG9uX3JvYW1pbmdfa2V5</string>
+    <long name="RoutinesPrototype__second_wifi_driven_bootstrap_delay_minutes" value="60" />
+    <boolean name="PrimesConfig__enable_network_metric" value="true" />
+    <string name="SearchZeroState__search_suggestions_locale_map"></string>
+    <boolean name="WestworldConfig__is_enabled" value="true" />
+    <boolean name="ContextualCardSettings__is_manual_ranking_enabled" value="true" />
+    <long name="RoutinesPrototype__inference_engine_max_confidence" value="9999" />
+    <boolean name="RoutinesPrototype__is_tablet_device" value="false" />
+    <boolean name="SearchIndexing__dynamic_indexables_enabled" value="true" />
+    <string name="SmartSearchRanking__prioritized_rankers"></string>
+    <string name="BatteryUsage__allowlist_access_battery_usage_data">Chdjb20uaXBjbW9iaWxlLmJhdHRlcnlpcQoeY29tLndhbG1hcnQuZGV2aWNlLnNoaWZ1bWFzdGVy</string>
+    <long name="SearchIndexing__background_index_timeout_ms" value="10000" />
+    <boolean name="SearchTextConversion__is_zh_enabled" value="false" />
+    <string name="SearchAppPromo__promoted_app_package_names">ChNjb20uZmFjZWJvb2sua2F0YW5hChFjb20uZmFjZWJvb2sub3JjYQoMY29tLndoYXRzYXBwChVjb20uaW5zdGFncmFtLmFuZHJvaWQKE2NvbS50d2l0dGVyLmFuZHJvaWQKFGNvbS5zbmFwY2hhdC5hbmRyb2lkChVqcC5uYXZlci5saW5lLmFuZHJvaWQKF2NvbS5raW5nLmNhbmR5Y3J1c2hzYWdhCiFjb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5tZXNzYWdpbmcKFWNvbS5nb29nbGUuYW5kcm9pZC5nbQoeY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMucGhvdG9zChJjb20uYW5kcm9pZC5jaHJvbWUKEmNvbS5hbmRyb2lkLmRpYWxlcgocY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMuZG9jcw</string>
+    <float name="RoutinesPrototype__inference_engine_dbscan_min_eps" value="0.5" />
+    <boolean name="BatterySettings__is_reverse_charging_auto_turn_on_supported" value="true" />
+    <boolean name="BatteryHi__is_health_indicator_enabled" value="false" />
+    <boolean name="BatteryWidget__is_event_service_enabled" value="true" />
+    <long name="SearchIndexing__collect_client_index_data_interval_ms" value="500" />
+    <long name="RoutinesPrototype__routine_inference_max_dismissals_per_routine" value="1" />
+    <long name="RoutinesPrototype__suggest_space_max_confidence" value="10000" />
+    <float name="SmartSearchRanking__heuristic_weight" value="1.0" />
+    <float name="ContextualCardSettings__default_ranking_score_for_suggestion_card" value="0.4" />
+    <long name="RoutinesPrototype__first_wifi_driven_bootstrap_delay_minutes" value="15" />
+    <boolean name="SearchIndexing__enable_pre_index_data_inconsistent_logging" value="true" />
+    <string name="SettingsSearchSlices__slider_slices">Cjljb250ZW50Oi8vY29tLmFuZHJvaWQuc2V0dGluZ3Muc2xpY2VzL2FjdGlvbi9hbGFybV92b2x1bWUKOGNvbnRlbnQ6Ly9jb20uYW5kcm9pZC5zZXR0aW5ncy5zbGljZXMvYWN0aW9uL3Jpbmdfdm9sdW1lCkFjb250ZW50Oi8vY29tLmFuZHJvaWQuc2V0dGluZ3Muc2xpY2VzL2FjdGlvbi9zZXBhcmF0ZV9yaW5nX3ZvbHVtZQo4Y29udGVudDovL2NvbS5hbmRyb2lkLnNldHRpbmdzLnNsaWNlcy9hY3Rpb24vY2FsbF92b2x1bWUKOWNvbnRlbnQ6Ly9jb20uYW5kcm9pZC5zZXR0aW5ncy5zbGljZXMvYWN0aW9uL21lZGlhX3ZvbHVtZQpAY29udGVudDovL2NvbS5hbmRyb2lkLnNldHRpbmdzLnNsaWNlcy9hY3Rpb24vbm90aWZpY2F0aW9uX3ZvbHVtZQpHY29udGVudDovL2NvbS5hbmRyb2lkLnNldHRpbmdzLnNsaWNlcy9hY3Rpb24vZ2VzdHVyZV9hc3Npc3Rfc2Vuc2l0aXZpdHkKRmNvbnRlbnQ6Ly9jb20uYW5kcm9pZC5zZXR0aW5ncy5zbGljZXMvYWN0aW9uL25pZ2h0X2Rpc3BsYXlfdGVtcGVyYXR1cmU</string>
+    <boolean name="SuggestionRanking__is_contextual_suggestions_enabled" value="true" />
+    <string name="ContextualCardSettings__disabled_cards">Ckxjb250ZW50Oi8vY29tLmFuZHJvaWQuc2V0dGluZ3Muc2xpY2VzL2FjdGlvbi9jb250ZXh0dWFsX25vdGlmaWNhdGlvbl9jaGFubmVs</string>
+    <float name="ContextualCardSettings__default_ranking_score_for_deferred_setup_card" value="1.0" />
+    <string name="ContextualCardSettings__model_supported_cards">Cjhjb250ZW50Oi8vYW5kcm9pZC5zZXR0aW5ncy5zbGljZXMvYWN0aW9uL2NvbnRleHR1YWxfd2lmaQo+Y29udGVudDovL2NvbS5hbmRyb2lkLnNldHRpbmdzLnNsaWNlcy9hY3Rpb24vYmx1ZXRvb3RoX2RldmljZXMKTGNvbnRlbnQ6Ly9jb20uYW5kcm9pZC5zZXR0aW5ncy5zbGljZXMvYWN0aW9uL2NvbnRleHR1YWxfbm90aWZpY2F0aW9uX2NoYW5uZWwKRmNvbnRlbnQ6Ly9jb20uYW5kcm9pZC5zZXR0aW5ncy5zbGljZXMvYWN0aW9uL2ZhY2VfdW5sb2NrX2dyZWV0aW5nX2NhcmQKO2NvbnRlbnQ6Ly9jb20uYW5kcm9pZC5zZXR0aW5ncy5zbGljZXMvaW50ZW50L2FkYXB0aXZlX3NsZWVwCjhjb250ZW50Oi8vY29tLmFuZHJvaWQuc2V0dGluZ3Muc2xpY2VzL2ludGVudC9iYXR0ZXJ5X3RpcAo4Y29udGVudDovL2NvbS5hbmRyb2lkLnNldHRpbmdzLnNsaWNlcy9pbnRlbnQvbG93X3N0b3JhZ2UKN2NvbnRlbnQ6Ly9jb20uYW5kcm9pZC5zZXR0aW5ncy5zbGljZXMvYWN0aW9uL2RhcmtfdGhlbWUKNWNvbnRlbnQ6Ly9jb20uZ29vZ2xlLmFuZHJvaWQuZmluc2t5LnNsaWNlLnByb3RlY3QvcGhhCkVjb250ZW50Oi8vY29tLmdvb2dsZS5hbmRyb2lkLmdtcy5uZWFyYnkuZmFzdHBhaXIvb3RhX2NvbnRleHR1YWxfY2FyZHMKR2NvbnRlbnQ6Ly9jb20uZ29vZ2xlLmFuZHJvaWQuZ21zLm5lYXJieS5mYXN0cGFpci9wYWlyX2hlYWRlcl9zdWdnZXN0aW9uCqABY29udGVudDovL2NvbS5nb29nbGUuYW5kcm9pZC5zZXR0aW5ncy5pbnRlbGxpZ2VuY2UubW9kdWxlcy5jb250ZXh0dWFsY2FyZHMuc2xpY2VzL3N1Z2dlc3Rpb24vY29tLmFuZHJvaWQuZW1lcmdlbmN5L2NvbS5hbmRyb2lkLmVtZXJnZW5jeS5lZGl0LkVkaXRJbmZvU3VnZ2VzdGlvbgrBAWNvbnRlbnQ6Ly9jb20uZ29vZ2xlLmFuZHJvaWQuc2V0dGluZ3MuaW50ZWxsaWdlbmNlLm1vZHVsZXMuY29udGV4dHVhbGNhcmRzLnNsaWNlcy9zdWdnZXN0aW9uL2NvbS5hbmRyb2lkLnNldHRpbmdzL2NvbS5hbmRyb2lkLnNldHRpbmdzLmJpb21ldHJpY3MuZmluZ2VycHJpbnQuRmluZ2VycHJpbnRFbnJvbGxTdWdnZXN0aW9uQWN0aXZpdHkKqQFjb250ZW50Oi8vY29tLmdvb2dsZS5hbmRyb2lkLnNldHRpbmdzLmludGVsbGlnZW5jZS5tb2R1bGVzLmNvbnRleHR1YWxjYXJkcy5zbGljZXMvc3VnZ2VzdGlvbi9jb20uYW5kcm9pZC5zZXR0aW5ncy9jb20uYW5kcm9pZC5zZXR0aW5ncy5ub3RpZmljYXRpb24uWmVuU3VnZ2VzdGlvbkFjdGl2aXR5CqwBY29udGVudDovL2NvbS5nb29nbGUuYW5kcm9pZC5zZXR0aW5ncy5pbnRlbGxpZ2VuY2UubW9kdWxlcy5jb250ZXh0dWFsY2FyZHMuc2xpY2VzL3N1Z2dlc3Rpb24vY29tLmFuZHJvaWQuc2V0dGluZ3MvY29tLmFuZHJvaWQuc2V0dGluZ3MucGFzc3dvcmQuU2NyZWVuTG9ja1N1Z2dlc3Rpb25BY3Rpdml0eQqwAWNvbnRlbnQ6Ly9jb20uZ29vZ2xlLmFuZHJvaWQuc2V0dGluZ3MuaW50ZWxsaWdlbmNlLm1vZHVsZXMuY29udGV4dHVhbGNhcmRzLnNsaWNlcy9zdWdnZXN0aW9uL2NvbS5hbmRyb2lkLnNldHRpbmdzL2NvbS5hbmRyb2lkLnNldHRpbmdzLlNldHRpbmdzJTI0TmlnaHREaXNwbGF5U3VnZ2VzdGlvbkFjdGl2aXR5CrEBY29udGVudDovL2NvbS5nb29nbGUuYW5kcm9pZC5zZXR0aW5ncy5pbnRlbGxpZ2VuY2UubW9kdWxlcy5jb250ZXh0dWFsY2FyZHMuc2xpY2VzL3N1Z2dlc3Rpb24vY29tLmFuZHJvaWQuc2V0dGluZ3MvY29tLmFuZHJvaWQuc2V0dGluZ3Mud2lmaS5jYWxsaW5nLldpZmlDYWxsaW5nU3VnZ2VzdGlvbkFjdGl2aXR5CqwBY29udGVudDovL2NvbS5nb29nbGUuYW5kcm9pZC5zZXR0aW5ncy5pbnRlbGxpZ2VuY2UubW9kdWxlcy5jb250ZXh0dWFsY2FyZHMuc2xpY2VzL3N1Z2dlc3Rpb24vY29tLmFuZHJvaWQuc2V0dGluZ3MvY29tLmFuZHJvaWQuc2V0dGluZ3Mud2FsbHBhcGVyLldhbGxwYXBlclN1Z2dlc3Rpb25BY3Rpdml0eQqoAWNvbnRlbnQ6Ly9jb20uZ29vZ2xlLmFuZHJvaWQuc2V0dGluZ3MuaW50ZWxsaWdlbmNlLm1vZHVsZXMuY29udGV4dHVhbGNhcmRzLnNsaWNlcy9zdWdnZXN0aW9uL2NvbS5hbmRyb2lkLnNldHRpbmdzL2NvbS5hbmRyb2lkLnNldHRpbmdzLndhbGxwYXBlci5TdHlsZVN1Z2dlc3Rpb25BY3Rpdml0eQqpAWNvbnRlbnQ6Ly9jb20uZ29vZ2xlLmFuZHJvaWQuc2V0dGluZ3MuaW50ZWxsaWdlbmNlLm1vZHVsZXMuY29udGV4dHVhbGNhcmRzLnNsaWNlcy9zdWdnZXN0aW9uL2NvbS5hbmRyb2lkLnNldHRpbmdzL2NvbS5nb29nbGUuYW5kcm9pZC5zZXR0aW5ncy5hd2FyZS5Bd2FyZVNldHRpbmdzQWN0aXZpdHkKsAFjb250ZW50Oi8vY29tLmdvb2dsZS5hbmRyb2lkLnNldHRpbmdzLmludGVsbGlnZW5jZS5tb2R1bGVzLmNvbnRleHR1YWxjYXJkcy5zbGljZXMvc3VnZ2VzdGlvbi9jb20uYW5kcm9pZC5zZXR0aW5ncy9jb20uZ29vZ2xlLmFuZHJvaWQuc2V0dGluZ3MuYXdhcmUuV2FrZVNjcmVlblN1Z2dlc3Rpb25BY3Rpdml0eQquAWNvbnRlbnQ6Ly9jb20uZ29vZ2xlLmFuZHJvaWQuc2V0dGluZ3MuaW50ZWxsaWdlbmNlLm1vZHVsZXMuY29udGV4dHVhbGNhcmRzLnNsaWNlcy9zdWdnZXN0aW9uL2NvbS5hbmRyb2lkLnNldHRpbmdzL2NvbS5nb29nbGUuYW5kcm9pZC5zZXR0aW5ncy5nZXN0dXJlcy5Bc3Npc3RHZXN0dXJlU3VnZ2VzdGlvbgrJAWNvbnRlbnQ6Ly9jb20uZ29vZ2xlLmFuZHJvaWQuc2V0dGluZ3MuaW50ZWxsaWdlbmNlLm1vZHVsZXMuY29udGV4dHVhbGNhcmRzLnNsaWNlcy9zdWdnZXN0aW9uL2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnNhZmV0eWh1Yi9jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5zYWZldHlodWIucGxhdGZvcm1zZXR0aW5ncy5FbWVyZ2VuY3lJbmZvU3VnZ2VzdGlvbgq7AWNvbnRlbnQ6Ly9jb20uZ29vZ2xlLmFuZHJvaWQuc2V0dGluZ3MuaW50ZWxsaWdlbmNlLm1vZHVsZXMuY29udGV4dHVhbGNhcmRzLnNsaWNlcy9zdWdnZXN0aW9uL2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnRpcHMvY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMudGlwcy5zdWdnZXN0aW9ucy5Hb29nbGVTbWFydHNUaXBzQWN0aXZpdHkKtQFjb250ZW50Oi8vY29tLmdvb2dsZS5hbmRyb2lkLnNldHRpbmdzLmludGVsbGlnZW5jZS5tb2R1bGVzLmNvbnRleHR1YWxjYXJkcy5zbGljZXMvc3VnZ2VzdGlvbi9jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy50aXBzL2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnRpcHMuc3VnZ2VzdGlvbnMuQ2FtZXJhVGlwc0FjdGl2aXR5CrwBY29udGVudDovL2NvbS5nb29nbGUuYW5kcm9pZC5zZXR0aW5ncy5pbnRlbGxpZ2VuY2UubW9kdWxlcy5jb250ZXh0dWFsY2FyZHMuc2xpY2VzL3N1Z2dlc3Rpb24vY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMudGlwcy9jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy50aXBzLnN1Z2dlc3Rpb25zLkNvbW11bmljYXRpb25UaXBzQWN0aXZpdHkKtwFjb250ZW50Oi8vY29tLmdvb2dsZS5hbmRyb2lkLnNldHRpbmdzLmludGVsbGlnZW5jZS5tb2R1bGVzLmNvbnRleHR1YWxjYXJkcy5zbGljZXMvc3VnZ2VzdGlvbi9jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy50aXBzL2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnRpcHMuc3VnZ2VzdGlvbnMuR2VzdHVyZXNUaXBzQWN0aXZpdHkK1AFjb250ZW50Oi8vY29tLmdvb2dsZS5hbmRyb2lkLnNldHRpbmdzLmludGVsbGlnZW5jZS5tb2R1bGVzLmNvbnRleHR1YWxjYXJkcy5zbGljZXMvc3VnZ2VzdGlvbi9jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy53ZWxsYmVpbmcvY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMud2VsbGJlaW5nLnNldHRpbmdzc3VnZ2VzdGlvbnMuaW1wbC5TZXR0aW5nc1N1Z2dlc3Rpb25BY3Rpdml0eQq3AWNvbnRlbnQ6Ly9jb20uZ29vZ2xlLmFuZHJvaWQuc2V0dGluZ3MuaW50ZWxsaWdlbmNlLm1vZHVsZXMuY29udGV4dHVhbGNhcmRzLnNsaWNlcy9zdWdnZXN0aW9uL2NvbS5nb29nbGUuYW5kcm9pZC5nbXMvY29tLmdvb2dsZS5hbmRyb2lkLmdtcy50cnVzdGFnZW50LmRpc2NvdmVyeS5PbmJvZHlQcm9tb3Rpb25BY3Rpdml0eQqnAWNvbnRlbnQ6Ly9jb20uZ29vZ2xlLmFuZHJvaWQuc2V0dGluZ3MuaW50ZWxsaWdlbmNlLm1vZHVsZXMuY29udGV4dHVhbGNhcmRzLnNsaWNlcy9zdWdnZXN0aW9uL2NvbS5nb29nbGUuYW5kcm9pZC5nbXMvY29tLmdvb2dsZS5hbmRyb2lkLmdtcy51cGRhdGUuT3RhU3VnZ2VzdGlvbkFjdGl2aXR5CrkBY29udGVudDovL2NvbS5nb29nbGUuYW5kcm9pZC5zZXR0aW5ncy5pbnRlbGxpZ2VuY2UubW9kdWxlcy5jb250ZXh0dWFsY2FyZHMuc2xpY2VzL3N1Z2dlc3Rpb24vY29tLmdvb2dsZS5hbmRyb2lkLmdtcy9jb20uZ29vZ2xlLmFuZHJvaWQuZ21zLndhbGxldC5zZXR1cHdpemFyZC5QYXltZW50c1NldHVwV2l6YXJkQWN0aXZpdHkK3wFjb250ZW50Oi8vY29tLmdvb2dsZS5hbmRyb2lkLnNldHRpbmdzLmludGVsbGlnZW5jZS5tb2R1bGVzLmNvbnRleHR1YWxjYXJkcy5zbGljZXMvc3VnZ2VzdGlvbi9jb20uZ29vZ2xlLmFuZHJvaWQuc2V0dGluZ3MuaW50ZWxsaWdlbmNlL2NvbS5nb29nbGUuYW5kcm9pZC5zZXR0aW5ncy5pbnRlbGxpZ2VuY2UubW9kdWxlcy5zdWdnZXN0aW9ucy5OaWdodGxpZ2h0VHJhbXBvbGluZUFjdGl2aXR5CsUBY29udGVudDovL2NvbS5nb29nbGUuYW5kcm9pZC5zZXR0aW5ncy5pbnRlbGxpZ2VuY2UubW9kdWxlcy5jb250ZXh0dWFsY2FyZHMuc2xpY2VzL3N1Z2dlc3Rpb24vY29tLmdvb2dsZS5pbnRlbGxpZ2VuY2Uuc2Vuc2UvY29tLmdvb2dsZS5pbnRlbGxpZ2VuY2Uuc2Vuc2UuYW1iaWVudG11c2ljLkFtYmllbnRNdXNpY1NldHVwV2l6YXJkQWN0aXZpdHkKXmNvbnRlbnQ6Ly9jb20uZ29vZ2xlLmFuZHJvaWQuc2V0dGluZ3MuaW50ZWxsaWdlbmNlLm1vZHVsZXMucm91dGluZXMuc2xpY2VzL3NsaWNlL3N1Z2dlc3Rfc3BhY2UQpqrQCQ</string>
+    <boolean name="BatterySaver__is_scheduler_default_on_enabled" value="false" />
+    <boolean name="RoutinesPrototype__is_action_notifications_enabled" value="true" />
+    <boolean name="SearchConversationalCare__use_persistent_cache" value="true" />
+    <boolean name="SearchConversationalCare__enable_suggestion_service_for_multiple_users" value="true" />
+    <boolean name="SearchRegressionProvider__is_regression_provider_enabled" value="true" />
+    <long name="RoutinesPrototype__bootstrap_service_period_minutes" value="30" />
+    <long name="RoutinesPrototype__inference_engine_max_duration_minutes" value="240" />
+    <string name="ContextualCardSettings__federated_learning_population_name">android_settings/settings_contextual_card/android_fl_training</string>
+    <string name="BatteryUsage__allowlist_hide_background_data">Ch9jb20uZ29vZ2xlLmFuZHJvaWQuR29vZ2xlQ2FtZXJh</string>
+    <boolean name="ContextualTimeout__is_enabled" value="false" />
+    <string name="SmartSearchRanking__federated_learning_population_name">default_population_name</string>
+    <boolean name="HatsConfig__is_enabled" value="true" />
+    <boolean name="SearchSupportCenter__is_help_center_enabled" value="true" />
+    <boolean name="PrismQrConfig__is_enabled_for_wifi_qr" value="true" />
+    <long name="RoutinesPrototype__inference_engine_bucket_size" value="30" />
+    <long name="SearchFeedback__query_logging_job_start_delay" value="10000" />
+    <long name="SearchFeedback__upload_query_user_consent_checker_timeout" value="5000" />
+    <boolean name="AdvancedSearch__enable_advanced_search" value="false" />
+    <string name="BatteryUsage__allowlist_hide_entry_data">CiFjb20uZ29vZ2xlLmFuZHJvaWQuZ21zLnBlcnNpc3RlbnQ</string>
+    <string name="AppSearchIndexing__release_allowlisted_package_ids">Cm0KJ2NvbS5nb29nbGUuYW5kcm9pZC5nb29nbGVxdWlja3NlYXJjaGJveBJAZjBmZDZjNWI0MTBmMjVjYjI1YzNiNTMzNDZjODk3MmZhZTMwZjhlZTc0MTFkZjkxMDQ4MGFkNmIyZDYwZGI4MxgB</string>
+    <string name="SearchFeedback__upload_query_service_host">nexusownershipexperience-pa.googleapis.com</string>
+    <long name="SettingsSearchSlices__slice_bind_view_timeout_ms" value="500" />
+    <boolean name="SearchIndexing__enable_settins_index_with_single_thread" value="false" />
+    <string name="ContextualCardSettings__permanent_dismissed_cards">CsYBY29udGVudDovL2NvbS5nb29nbGUuYW5kcm9pZC5zZXR0aW5ncy5pbnRlbGxpZ2VuY2UubW9kdWxlcy5jb250ZXh0dWFsY2FyZHMuc2xpY2VzL3N1Z2dlc3Rpb24vY29tLmdvb2dsZS5hbmRyb2lkLnNldHVwd2l6YXJkL2NvbS5nb29nbGUuYW5kcm9pZC5zZXR1cHdpemFyZC5kZWZlcnJlZC5EZWZlcnJlZFNldHRpbmdzU3VnZ2VzdGlvbkFjdGl2aXR5CrMBY29udGVudDovL2NvbS5nb29nbGUuYW5kcm9pZC5zZXR0aW5ncy5pbnRlbGxpZ2VuY2UubW9kdWxlcy5jb250ZXh0dWFsY2FyZHMuc2xpY2VzL3N1Z2dlc3Rpb24vY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMudGlwcy9jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy50aXBzLnN1Z2dlc3Rpb25zLlRpcHNIb21lQWN0aXZpdHk</string>
+    <long name="ContextualCardRankingModelDownloadConfig__version" value="272144503" />
+    <boolean name="BatteryWidget__is_enabled" value="false" />
+    <string name="SmartSearchRanking__personalized_learning_trained_params_uri">file:search_ranker_lstm_model_settings_intelligence_p_trained_v0.3.ckp</string>
+    <boolean name="RoutinesPrototype__is_routineless_user_heuristic_enabled" value="true" />
+    <boolean name="BatteryHi__is_debug" value="false" />
+    <long name="SearchIndexing__indexing_job_service_interval_ms" value="86400000" />
+    <boolean name="SearchSynonyms__is_synonym_search_enabled" value="false" />
+    <boolean name="SliceIndexing__is_enabled" value="true" />
+    <boolean name="WestworldConfig__forced_search_index_disabled" value="true" />
+    <string name="HatsConfig__activity_trigger_id_map">A11yHearingAidsUser,xrfXsAAWB0gpdhNwjps0UgYbTinz;A11yNewHearingAidsUser,xrfXsAAWB0gpdhNwjps0UgYbTinz</string>
+    <string name="SmartSearchRankingModelDownloadConfig__manifest_url">https://www.gstatic.com/brella/v9/com.google.android.settings.intelligence/259861522/gcore_y2019w28/manifest.json</string>
+    <boolean name="BatterySaver__is_flipendo_condition_checked" value="true" />
+    <boolean name="SmartSearchRanking__is_enabled" value="false" />
+    <boolean name="SearchIndexing__enable_index_mechanism_v2" value="true" />
+    <boolean name="RoutinesPrototype__is_feedback_enabled" value="false" />
+    <boolean name="PrimesConfig__enable_crash_metric" value="true" />
+    <float name="ContextualCardSettings__default_ranking_score_for_default_card" value="0.2" />
+    <boolean name="SearchResultUi__is_custom_slice_view_enabled" value="true" />
+    <long name="RoutinesPrototype__routine_inference_max_dismissals_per_day" value="1" />
+    <long name="ContextualCardSettings__ranking_timeout_millis" value="5000" />
+    <boolean name="RoutinesPrototype__is_suggest_space_enabled" value="true" />
+    <long name="BatteryUsage__data_fetch_interval_minutes" value="60" />
+    <long name="HatsConfig__homepage_visit_count" value="0" />
+    <long name="ContextualCardSettings__contextual_card_count" value="1" />
+    <long name="SearchGrouping__max_result_display_count" value="20" />
+    <boolean name="SearchAppPromo__enable_app_promo" value="true" />
+    <boolean name="SearchPerformance__query_performance_benchmark_enabled" value="false" />
+    <boolean name="WestworldConfig__is_clearcut_logging_enabled" value="false" />
+    <string name="ContextualCardRankingUserEmbeddingModelDownloadConfig__manifest_url">https://www.gstatic.com/brella/v9/com.google.android.settings.intelligence/272144503/gcore_y2019w39/manifest.json</string>
+    <string name="AppSearchIndexing__blacklisted_uris"></string>
+    <long name="RoutinesPrototype__inference_engine_min_duration_minutes" value="5" />
+    <string name="SmartSearchRankingModelDownloadConfig__inference_plan_url">https://www.gstatic.com/brella/v9/com.google.android.settings.intelligence/259861522/gcore_y2019w28/settings_intelligence_search_inference_model_inference_plan.pb</string>
+    <boolean name="RoutinesPrototype__is_backup_enabled" value="true" />
+    <boolean name="RoutinesPrototype__enable_naive_bootstrap_scheduler" value="false" />
+    <string name="SearchIndexing__indexing_package_blacklist">Ch5jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5zYW1wbGU</string>
+    <boolean name="SmartSearchRanking__is_dynamic_results_ranking_enabled" value="true" />
+    <boolean name="ContextualCardSettings__is_default_score_allowed_for_new_card" value="false" />
+    <boolean name="RoutinesPrototype__is_logging_enabled" value="true" />
+    <long name="RoutinesPrototype__suggest_space_min_confidence" value="5500" />
+    <boolean name="RoutinesPrototype__is_manual_location_rule_adding_enabled" value="true" />
+    <string name="SmartSearchRanking__fallback_inference_plan_uri">mdd://com.google.android.settings.intelligence/settings_intelligence_search_inference_model_inference_plan.pb</string>
+    <long name="BatteryUsage__data_retention_days" value="9" />
+    <boolean name="RoutinesPrototype__is_debug_enabled" value="false" />
+    <boolean name="SearchAnalytics__enable_federated_analytics" value="false" />
+    <string name="SearchHighlightableMenu__unsupported_authority_list">Ci5jb20uZ29vZ2xlLmFuZHJvaWQuZ21zLmFjY291bnRzZXR0aW5ncy5jb250ZW50</string>
+    <boolean name="SearchGrouping__is_grouping_result_enabled" value="false" />
+    <long name="SmartSearchRanking__timeout_ms" value="250" />
+    <boolean name="SearchConversationalCare__enable_no_search_result_state_cc" value="false" />
+    <boolean name="BatteryUsage__is_last_full_charge" value="false" />
+    <boolean name="PrimesConfig__enable_memory_metric" value="true" />
+    <string name="SearchSynonyms__synonyms_metadata_update_time"></string>
+    <boolean name="SearchZeroState__enable_suggestions" value="false" />
+    <long name="RoutinesPrototype__routine_inference_max_sent_per_day" value="1" />
+    <boolean name="BatteryHi__is_enabled" value="false" />
+    <boolean name="BatteryWidget__is_defender_icon_enabled" value="true" />
+    <boolean name="ContextualCardSettings__is_contextual_wifi_expandable" value="false" />
+    <boolean name="PrimesConfig__enable_package_metric" value="true" />
+    <boolean name="RoutinesPrototype__is_activities_enabled" value="true" />
+    <long name="SuggestionRanking__category_restore_anytime_expiration_ms" value="259200000" />
+    <boolean name="RoutinesPrototype__squash_provider_init_errors" value="true" />
+    <boolean name="BatteryUsage__is_battery_tips_enabled" value="true" />
+    <boolean name="SearchQuery__is_breadcrumb_ellipsis_enabled" value="false" />
+    <boolean name="RoutinesPrototype__is_slices_enabled" value="false" />
+    <string name="ContextualCardSettings__manual_ranking_supported_cards">CjVjb250ZW50Oi8vY29tLmdvb2dsZS5hbmRyb2lkLmZpbnNreS5zbGljZS5wcm90ZWN0L3BoYQpHY29udGVudDovL2NvbS5nb29nbGUuYW5kcm9pZC5nbXMubmVhcmJ5LmZhc3RwYWlyL3BhaXJfaGVhZGVyX3N1Z2dlc3Rpb24KpwFjb250ZW50Oi8vY29tLmdvb2dsZS5hbmRyb2lkLnNldHRpbmdzLmludGVsbGlnZW5jZS5tb2R1bGVzLmNvbnRleHR1YWxjYXJkcy5zbGljZXMvc3VnZ2VzdGlvbi9jb20uZ29vZ2xlLmFuZHJvaWQuZ21zL2NvbS5nb29nbGUuYW5kcm9pZC5nbXMudXBkYXRlLk90YVN1Z2dlc3Rpb25BY3Rpdml0eQrGAWNvbnRlbnQ6Ly9jb20uZ29vZ2xlLmFuZHJvaWQuc2V0dGluZ3MuaW50ZWxsaWdlbmNlLm1vZHVsZXMuY29udGV4dHVhbGNhcmRzLnNsaWNlcy9zdWdnZXN0aW9uL2NvbS5nb29nbGUuYW5kcm9pZC5zZXR1cHdpemFyZC9jb20uZ29vZ2xlLmFuZHJvaWQuc2V0dXB3aXphcmQuZGVmZXJyZWQuRGVmZXJyZWRTZXR0aW5nc1N1Z2dlc3Rpb25BY3Rpdml0eQqzAWNvbnRlbnQ6Ly9jb20uZ29vZ2xlLmFuZHJvaWQuc2V0dGluZ3MuaW50ZWxsaWdlbmNlLm1vZHVsZXMuY29udGV4dHVhbGNhcmRzLnNsaWNlcy9zdWdnZXN0aW9uL2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnRpcHMvY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMudGlwcy5zdWdnZXN0aW9ucy5UaXBzSG9tZUFjdGl2aXR5Cjhjb250ZW50Oi8vY29tLmFuZHJvaWQuc2V0dGluZ3Muc2xpY2VzL2ludGVudC9sb3dfc3RvcmFnZQpFY29udGVudDovL2NvbS5nb29nbGUuYW5kcm9pZC5nbXMubmVhcmJ5LmZhc3RwYWlyL290YV9jb250ZXh0dWFsX2NhcmRzCjhjb250ZW50Oi8vY29tLmFuZHJvaWQuc2V0dGluZ3Muc2xpY2VzL2ludGVudC9iYXR0ZXJ5X3RpcAo3Y29udGVudDovL2NvbS5hbmRyb2lkLnNldHRpbmdzLnNsaWNlcy9hY3Rpb24vZGFya190aGVtZRI4Y29udGVudDovL2FuZHJvaWQuc2V0dGluZ3Muc2xpY2VzL2FjdGlvbi9jb250ZXh0dWFsX3dpZmkSPmNvbnRlbnQ6Ly9jb20uYW5kcm9pZC5zZXR0aW5ncy5zbGljZXMvYWN0aW9uL2JsdWV0b290aF9kZXZpY2VzGO360Ak</string>
+    <float name="BatteryUsage__battery_usage_list_consume_power_threshold" value="1.0" />
+    <string name="ContextualCardSettings__manual_ranking_supported_cards_v2">EjVjb250ZW50Oi8vY29tLmdvb2dsZS5hbmRyb2lkLmZpbnNreS5zbGljZS5wcm90ZWN0L3BoYRJHY29udGVudDovL2NvbS5nb29nbGUuYW5kcm9pZC5nbXMubmVhcmJ5LmZhc3RwYWlyL3BhaXJfaGVhZGVyX3N1Z2dlc3Rpb24SpwFjb250ZW50Oi8vY29tLmdvb2dsZS5hbmRyb2lkLnNldHRpbmdzLmludGVsbGlnZW5jZS5tb2R1bGVzLmNvbnRleHR1YWxjYXJkcy5zbGljZXMvc3VnZ2VzdGlvbi9jb20uZ29vZ2xlLmFuZHJvaWQuZ21zL2NvbS5nb29nbGUuYW5kcm9pZC5nbXMudXBkYXRlLk90YVN1Z2dlc3Rpb25BY3Rpdml0eRLGAWNvbnRlbnQ6Ly9jb20uZ29vZ2xlLmFuZHJvaWQuc2V0dGluZ3MuaW50ZWxsaWdlbmNlLm1vZHVsZXMuY29udGV4dHVhbGNhcmRzLnNsaWNlcy9zdWdnZXN0aW9uL2NvbS5nb29nbGUuYW5kcm9pZC5zZXR1cHdpemFyZC9jb20uZ29vZ2xlLmFuZHJvaWQuc2V0dXB3aXphcmQuZGVmZXJyZWQuRGVmZXJyZWRTZXR0aW5nc1N1Z2dlc3Rpb25BY3Rpdml0eRKzAWNvbnRlbnQ6Ly9jb20uZ29vZ2xlLmFuZHJvaWQuc2V0dGluZ3MuaW50ZWxsaWdlbmNlLm1vZHVsZXMuY29udGV4dHVhbGNhcmRzLnNsaWNlcy9zdWdnZXN0aW9uL2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnRpcHMvY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMudGlwcy5zdWdnZXN0aW9ucy5UaXBzSG9tZUFjdGl2aXR5Ejhjb250ZW50Oi8vY29tLmFuZHJvaWQuc2V0dGluZ3Muc2xpY2VzL2ludGVudC9sb3dfc3RvcmFnZRJFY29udGVudDovL2NvbS5nb29nbGUuYW5kcm9pZC5nbXMubmVhcmJ5LmZhc3RwYWlyL290YV9jb250ZXh0dWFsX2NhcmRzEjhjb250ZW50Oi8vY29tLmFuZHJvaWQuc2V0dGluZ3Muc2xpY2VzL2ludGVudC9iYXR0ZXJ5X3RpcBI3Y29udGVudDovL2NvbS5hbmRyb2lkLnNldHRpbmdzLnNsaWNlcy9hY3Rpb24vZGFya190aGVtZRI7Y29udGVudDovL2NvbS5hbmRyb2lkLnNldHRpbmdzLnNsaWNlcy9pbnRlbnQvYWRhcHRpdmVfc2xlZXASOGNvbnRlbnQ6Ly9hbmRyb2lkLnNldHRpbmdzLnNsaWNlcy9hY3Rpb24vY29udGV4dHVhbF93aWZpGIb+0Ak</string>
+    <string name="BatteryUsage__allowlist_system_apps">ChZjb20uZ29vZ2xlLmFuZHJvaWQuZ21zCiVjb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5uZXh1c2xhdW5jaGVyCh1jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5zY29uZQodY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMudHVyYm8</string>
+    <boolean name="ContextualCardSettings__is_training_enabled" value="false" />
+    <boolean name="SearchGrouping__is_clickable_category_enabled" value="false" />
+    <long name="RoutinesPrototype__inference_engine_min_total_duration_for_ssid_minutes" value="120" />
+    <boolean name="SearchTypoMatch__enable_typo_match" value="true" />
+    <boolean name="PrimesConfig__enable_battery_metric" value="true" />
+    <long name="SearchTypoMatch__max_word_distance" value="3" />
+    <boolean name="BatteryUsage__is_allowlist_verification_enabled" value="true" />
+    <long name="ContextualCardSettings__card_collector_interval" value="7200000" />
+    <boolean name="SearchConversationalCare__enable_zero_state_cc" value="false" />
+    <string name="SmartSearchRanking__popular_settings">ChB0b3BfbGV2ZWxfc3lzdGVtCgxidWlsZF9udW1iZXIKFnN5c3RlbV91cGRhdGVfc2V0dGluZ3MKFnRvcF9sZXZlbF9hYm91dF9kZXZpY2UKG25ldHdvcmtfYW5kX2ludGVybmV0X3NjcmVlbgoQc3RvcmFnZV9zZXR0aW5ncwoRdG9wX2xldmVsX2Rpc3BsYXkKVmRhc2hib2FyZF90aWxlX3ByZWZfY29tLmFuZHJvaWQuc2V0dGluZ3MuU2V0dGluZ3MkRGV2ZWxvcG1lbnRTZXR0aW5nc0Rhc2hib2FyZEFjdGl2aXR5ChxhcHBzX2FuZF9ub3RpZmljYXRpb25fc2NyZWVuCghzYXZlZF9idAoTcGVybWlzc2lvbl9zZXR0aW5ncwoSYXZhaWxhYmxlX21lZGlhX2J0Cg5hZGRfYnRfZGV2aWNlcwoSdG9wX2xldmVsX3NlY3VyaXR5ChNtb2JpbGVfbmV0d29ya19saXN0Chptb2JpbGVfbmV0d29ya19saXN0X3NjcmVlbgoQcmVjZW50X29wZW5fYXBwcwoRdG9wX2xldmVsX2JhdHRlcnkKG3RvcF9sZXZlbF9jb25uZWN0ZWRfZGV2aWNlcwoQZ2VzdHVyZV9zZXR0aW5ncwoYZGlzcGxheV9jdXRvdXRfZW11bGF0aW9uChNvc19maXJtd2FyZV92ZXJzaW9uChJ0b3BfbGV2ZWxfYWNjb3VudHMKFW5vdGlmaWNhdGlvbl9zZXR0aW5ncwoXdG9wX2xldmVsX2FjY2Vzc2liaWxpdHkKEXRvcF9sZXZlbF9zdG9yYWdlCgplbmFibGVfYWRiCidnZXN0dXJlX3N5c3RlbV9uYXZpZ2F0aW9uX2lucHV0X3N1bW1hcnkKD3RvcF9sZXZlbF9zb3VuZAoOc2NyZWVuX3RpbWVvdXQKIGV4dGVybmFsX3NvdXJjZXNfc2V0dGluZ3Nfc3dpdGNoChBmaXJtd2FyZV92ZXJzaW9uChdsYW5ndWFnZV9pbnB1dF9zZXR0aW5ncwoLd2lmaV90ZXRoZXIKDnNwZWNpYWxfYWNjZXNzChdhcHBfb3BzX3NldHRpbmdzX3N3aXRjaAokcHJldmlvdXNseV9jb25uZWN0ZWRfZGV2aWNlc19zZWVfYWxsCmVjb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy53ZWxsYmVpbmcvY29tLmdvb2dsZS5hbmRyb2lkLmFwcHMud2VsbGJlaW5nLnNldHRpbmdzLlRvcExldmVsU2V0dGluZ3NBY3Rpdml0eQoUdW5sb2NrX3NldF9vcl9jaGFuZ2UKFmNvbm5lY3Rpb25fcHJlZmVyZW5jZXMKEXRvcF9sZXZlbF9wcml2YWN5ChNzeXN0ZW1fbmF2X2dlc3R1cmFsCh53aWZpX3NhdmVkX2FjY2Vzc19wb2ludHNfbGFiZWwKXWNvbS5hbmRyb2lkLnZlbmRpbmcvY29tLmdvb2dsZS5hbmRyb2lkLmZpbnNreS5zeXN0ZW11cGRhdGVhY3Rpdml0eS5TZXR0aW5nc1NlY3VyaXR5RW50cnlQb2ludAoPdGV0aGVyX3NldHRpbmdzChRhcHBfbGlua19vcGVuX2Fsd2F5cwoRdG9wX2xldmVsX3N1cHBvcnQKDnBob25lX2xhbmd1YWdlCgl3YWxscGFwZXIKEmRhdGVfdGltZV9zZXR0aW5ncwoUZW5hYmxlZF9uZXR3b3Jrc19rZXkKEmNvbG9yX21vZGVfYm9vc3RlZAoKdG9nZ2xlX25mYwoIemVuX21vZGUKEXNob3dfcmVmcmVzaF9yYXRlCiBsb2Nrc2NyZWVuX2Zyb21fZGlzcGxheV9zZXR0aW5ncwoSdG9wX2xldmVsX2xvY2F0aW9uCgxjb25uZWN0ZWRfYnQKEmJhdHRlcnlfcGVyY2VudGFnZQoKY29sb3JfbW9kZQocZGlzcGxheV9zZXR0aW5nc19zY3JlZW5fem9vbQoMZGVmYXVsdF9hcHBzCgtiYXR0ZXJ5X3RpcAoMZGFya191aV9tb2RlCh9jb25maWd1cmVfbm90aWZpY2F0aW9uX3NldHRpbmdzCiNnZXN0dXJlX2dsb2JhbF9hY3Rpb25zX3BhbmVsX3N3aXRjaAoSY29sb3JfbW9kZV9uYXR1cmFsCkZkYXNoYm9hcmRfdGlsZV9wcmVmX2NvbS5hbmRyb2lkLnNldHRpbmdzLlNldHRpbmdzJFVzZXJTZXR0aW5nc0FjdGl2aXR5Chpub3RpZmljYXRpb25fYWNjZXNzX3N3aXRjaAoVc21hcnRfYmF0dGVyeV9tYW5hZ2VyChNzeXN0ZW1fbmF2XzNidXR0b25zCglmb250X3NpemUKDWRhdGFfc2V0dGluZ3MKF2NvbmZpZ3VyZV93aWZpX3NldHRpbmdzCgpkc3VfbG9hZGVyCg5zYXZlZF9uZXR3b3JrcwoRZGFya191aV9hdXRvX21vZGUKFWJhdHRlcnlfc2F2ZXJfc3VtbWFyeQoUY29sb3JfbW9kZV9hdXRvbWF0aWMKDmFwcF9pbmZvX3N0b3JlCgdiYXR0ZXJ5ChJwcmVmZXJyZWRfc2V0dGluZ3MKFWF1dG9fYnJpZ2h0bmVzc19lbnRyeQoPcmVzZXRfZGFzaGJvYXJkChx3aWZpX3RldGhlcl9uZXR3b3JrX3Bhc3N3b3JkCgxhY2NvdW50X3N5bmMKFHByaXZhY3lfbWFuYWdlX3Blcm1zChxnZXN0dXJlX2Fzc2lzdF9pbnB1dF9zdW1tYXJ5Ch1ibHVldG9vdGhfZ2FiZWxkb3JzY2hlX2VuYWJsZQoMbWFuYWdlX3Blcm1zCg9hdXRvX2JyaWdodG5lc3MKF2ZlYXR1cmVfZmxhZ3NfZGFzaGJvYXJkCgtzY3JlZW5zYXZlcgoVdmlydHVhbF9rZXlib2FyZF9wcmVm</string>
+    <string name="SearchZeroState__search_suggestions_list"></string>
+    <boolean name="SearchHighlightableMenu__is_highlightable_menu_enabled" value="true" />
+    <long name="GmscoreproxyConfig__fast_pair_item_last_observation_timestamp_day_threshold" value="730" />
+    <boolean name="SuggestionRanking__force_show_all_suggestions" value="false" />
+    <boolean name="BatteryWidget__show_no_battery_level_bluetooth_item_count" value="false" />
+    <boolean name="SmartSearchRanking__is_collection_enabled" value="false" />
+    <long name="RoutinesPrototype__max_days_wifi_ringer_db_retention" value="21" />
+    <boolean name="BatteryWidget__is_widget_promo_item_enabled" value="true" />
+    <string name="ContextualCardRankingModelDownloadConfig__manifest_url">https://www.gstatic.com/brella/v9/com.google.android.settings.intelligence/272144503/gcore_y2019w39/manifest.json</string>
+    <boolean name="BatteryUsage__wakeup_device_in_idle_mode" value="true" />
+    <string name="BatteryWidget__battery_all_the_time_model_blocklist">ChBGQVNUX1BBSVJfMDAwMDA2ChBGQVNUX1BBSVJfMDYwMDAwChBGQVNUX1BBSVJfMUNDMTQ0ChBGQVNUX1BBSVJfNjQxQzJDChBGQVNUX1BBSVJfNkIxQzY0ChBGQVNUX1BBSVJfODdCRDg2ChBGQVNUX1BBSVJfRDQ2QzIzChBGQVNUX1BBSVJfMDU4MkZEChBGQVNUX1BBSVJfOTJCQkJEChBGQVNUX1BBSVJfOTZGRUIyChBGQVNUX1BBSVJfQUQwRkFCChBGQVNUX1BBSVJfM0U3NTQwChBGQVNUX1BBSVJfNjhDMjI5ChBGQVNUX1BBSVJfNzE4QzE3ChBGQVNUX1BBSVJfOEI2NkFCChBGQVNUX1BBSVJfMDhBOTdGChBGQVNUX1BBSVJfNUEzNkE1ChBGQVNUX1BBSVJfNkVEQUY3ChBGQVNUX1BBSVJfOUFEQjExChBGQVNUX1BBSVJfQTdEN0EwChBGQVNUX1BBSVJfQzhFMjI4ChBGQVNUX1BBSVJfRDg3QTNFChBGQVNUX1BBSVJfRjIwMjBFChBGQVNUX1BBSVJfRjU4REU3ChBGQVNUX1BBSVJfMzAzNDZDChBGQVNUX1BBSVJfNzg2MkNFChBGQVNUX1BBSVJfMkY2RjA1</string>
+    <boolean name="ContextualCardSettings__is_configuration_activity_enabled" value="false" />
+    <boolean name="HatsConfig__is_survey_availability_enabled" value="false" />
+    <boolean name="PrimesConfig__enable_jank_metric" value="true" />
+    <long name="SearchConversationalCare__search_timeout_ms" value="300" />
+    <boolean name="SearchFeedback__is_feedback_card_enabled" value="false" />
+    <boolean name="SmartSearchRanking__is_prediction_enabled" value="false" />
+    <long name="SuggestionRanking__category_post_update_info_expiration_ms" value="604800000" />
+    <boolean name="BatteryUsage__is_force_expire_app_optimization_mode_enabled" value="true" />
+    <boolean name="GmscoreproxyConfig__is_fastpair_proxy_enabled" value="false" />
+    <boolean name="ContextualCardSettings__is_ranking_enabled" value="false" />
+    <boolean name="PrimesConfig__enable_timer_metric" value="true" />
+    <boolean name="SearchConversationalCare__enable_multiword_rank_boost_cc" value="false" />
+    <boolean name="BatteryUsage__is_time_slot_supported" value="true" />
+    <boolean name="RoutinesPrototype__is_device_pregrant_background_location_permission_allowed" value="false" />
+    <string name="ContextualCardRankingModelDownloadConfig__inference_checkpoint_url">https://www.gstatic.com/brella/v9/com.google.android.settings.intelligence/272144503/gcore_y2019w39/settings_intelligence_contextual_settings_inference_user_interaction_embedding_model_inference_state.ckp</string>
+    <string name="SmartSearchRanking__fallback_inference_params_uri">mdd://com.google.android.settings.intelligence/settings_intelligence_search_inference_model_inference_state.ckp</string>
+    <string name="ContextualCardRankingUserEmbeddingModelDownloadConfig__inference_checkpoint_url">https://www.gstatic.com/brella/v9/com.google.android.settings.intelligence/272144503/gcore_y2019w39/settings_intelligence_contextual_settings_inference_user_interaction_embedding_model_inference_state.ckp</string>
+    <boolean name="RoutinesPrototype__is_routine_inference_enabled" value="true" />
+    <boolean name="SuggestionRanking__is_restore_anytime_suggestion_enabled" value="true" />
+    <string name="SearchSynonyms__synonyms_metadata_url"></string>
+    <long name="RoutinesPrototype__routine_inference_max_sent_per_routine" value="2" />
+    <boolean name="SearchConversationalCare__keep_cc_suggestion_at_bottom" value="false" />
+    <boolean name="SuggestionRanking__is_extended_contextual_suggestions_enabled" value="true" />
+    <boolean name="SearchIndexing__enable_periodic_background_indexing" value="true" />
+    <boolean name="RoutinesPrototype__enable_wifi_driven_bootstrap" value="true" />
+    <long name="SearchIndexing__client_index_criteria_ms" value="3000" />
+    <boolean name="SearchQuery__is_each_word_match_enabled" value="true" />
+    <boolean name="SearchAnalytics__enable_for_transient_query" value="false" />
+    <long name="ContextualCardRankingUserEmbeddingModelDownloadConfig__version" value="272144503" />
+    <long name="RoutinesPrototype__inference_notification_timeout_period_minutes" value="1440" />
+    <long name="RoutinesPrototype__routine_inference_min_send_backoff_days" value="7" />
+    <boolean name="DcserviceproxyConfig__is_dcservice_proxy_enabled" value="true" />
+    <boolean name="SuggestionRanking__is_contextual_suggestions_supported" value="true" />
+    <boolean name="SpaSearchIndexing__is_enabled" value="false" />
+    <boolean name="ContextualCardSettings__is_prediction_enabled" value="false" />
+    <long name="GmscoreproxyConfig__trigger_fast_pair_by_account_key_timeout_ms" value="30000" />
+    <boolean name="RoutinesPrototype__is_module_enabled" value="true" />
+    <boolean name="SearchConversationalCare__enable_search_state_cc" value="false" />
+    <boolean name="SearchQuery__is_one_character_ignore_enabled" value="true" />
+    <boolean name="SearchQuery__is_summary_off_enabled" value="false" />
+    <string name="BatteryUsage__allowlist_hide_summary_data"></string>
+    <string name="SmartSearchRanking__supported_locales">en</string>
+    <string name="SmartSearchRanking__ranking_rules">CgkIARUAAAAAGAAKCQgEFTMzsz4YAQoJCAIVmpkZPhgBCgkIAxWamRk+GAEKCQgFFTMzsz4YAQ</string>
+    <boolean name="ContextualCardSettings__enable_card_collector_job_service" value="false" />
+    <boolean name="SuggestionRanking__is_restore_anytime_suggestion_dismissible" value="true" />
+    <boolean name="BatteryHi__is_charging_optimization_enabled" value="false" />
+    <long name="SearchFeedback__upload_query_service_port" value="443" />
+    <boolean name="SearchIndexing__enable_pre_index" value="false" />
+    <long name="RoutinesPrototype__inference_engine_min_total_duration_minutes" value="7200" />
+    <boolean name="SmartSearchRanking__is_pl_training_enabled" value="false" />
+    <long name="SmartSearchRankingModelDownloadConfig__version" value="259861522" />
+    <long name="SearchFeedback__local_session_id_ttl_millis" value="604800000" />
+    <string name="ContextualCardRankingUserEmbeddingModelDownloadConfig__inference_plan_url">https://www.gstatic.com/brella/v9/com.google.android.settings.intelligence/272144503/gcore_y2019w39/settings_intelligence_contextual_settings_inference_user_interaction_embedding_model_inference_plan.pb</string>
+    <boolean name="BatteryWidget__is_battery_all_the_time_enabled" value="false" />
+    <boolean name="BatteryHi__is_charging_optimization_embedded" value="false" />
+    <string name="ContextualCardSettings__default_whitelist_cards_with_score"></string>
+    <long name="ContextualCardSettings__max_collection_ttl_mills" value="2592000000" />
+    <boolean name="BatteryUsage__is_app_wake_lock_data_collection_enabled" value="true" />
+    <boolean name="SearchResultUi__is_empty_icon_spacing_removed" value="true" />
+    <string name="SmartSearchRanking__personalized_learning_plan_uri">mrepo:/com.google.android.settings.intelligence/v0.3/search_ranker_lstm_model_settings_intelligence_p_personalization_plan.pb?9b5fe6ad8614c389419766c89cc9badd4e66a030#408257</string>
+    <float name="RoutinesPrototype__inference_engine_wifi_dispersion_threshold" value="0.1" />
+    <long name="SearchConversationalCare__provider_timeout_ms" value="40" />
+    <boolean name="SearchAppPromo__enable_app_open_action" value="true" />
+    <string name="SmartSearchRanking__personalized_learning_initial_params_uri">mrepo:/com.google.android.settings.intelligence/v0.3/search_ranker_lstm_model_settings_intelligence_p_personalization_initial_state.ckp?d943a1ce9c17a0a16977c17a3efe80388ca8a743#133975</string>
+    <long name="RoutinesPrototype__routine_inference_min_previous_significant_days_threshold" value="1" />
+    <string name="SearchHighlightableMenu__package_to_menu_key_pair">CiFjb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy53YWxscGFwZXIKE3RvcF9sZXZlbF93YWxscGFwZXIKIWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLndlbGxiZWluZwoTdG9wX2xldmVsX3dlbGxiZWluZwooY29tLmdvb2dsZS5hbmRyb2lkLmNlbGxicm9hZGNhc3RyZWNlaXZlcgoTdG9wX2xldmVsX2VtZXJnZW5jeQonY29tLmdvb2dsZS5hbmRyb2lkLmdvb2dsZXF1aWNrc2VhcmNoYm94Cg50b3BfbGV2ZWxfYXBwcwokY29tLmdvb2dsZS5hbmRyb2lkLmlucHV0bWV0aG9kLmxhdGluChB0b3BfbGV2ZWxfc3lzdGVtCidjb20uZ29vZ2xlLmFuZHJvaWQucGVybWlzc2lvbmNvbnRyb2xsZXIKEXRvcF9sZXZlbF9wcml2YWN5Chxjb20uYW5kcm9pZC5zZXR0aW5ncy5uZXR3b3JrChF0b3BfbGV2ZWxfbmV0d29yaw</string>
+    <long name="SearchFeedback__min_query_length_to_log" value="3" />
+    <string name="SmartSearchRankingModelDownloadConfig__inference_checkpoint_url">https://www.gstatic.com/brella/v9/com.google.android.settings.intelligence/259861522/gcore_y2019w28/settings_intelligence_search_inference_model_inference_state.ckp</string>
+    <long name="RoutinesPrototype__routine_inference_significant_day_duration_threshold_ms" value="1800000" />
+    <string name="SmartSearchRanking__inference_plan_uri">mdd://com.google.android.settings.intelligence/settings_intelligence_search_inference_model_inference_plan.pb</string>
+    <long name="__phenotype_configuration_version" value="1736232900" />
+    <float name="ContextualCardSettings__default_ranking_score_for_important_card" value="0.8" />
+    <float name="RoutinesPrototype__inference_engine_ringer_dispersion_threshold" value="0.65" />
+    <long name="SearchConversationalCare__trust_cache_age_ms" value="5000" />
+    <long name="SearchPerformance__result_displayed_timeout_ms" value="5000" />
+    <boolean name="AppSearchIndexing__is_enabled" value="true" />
+    <boolean name="SearchConversationalCare__enable_provider" value="false" />
+    <boolean name="RoutinesPrototype__is_inference_notifications_enabled" value="true" />
+    <string name="AppSearchIndexing__debug_allowlisted_package_ids">Cm0KJ2NvbS5nb29nbGUuYW5kcm9pZC5nb29nbGVxdWlja3NlYXJjaGJveBJAMTk3NWIyZjE3MTc3YmM4OWE1ZGZmMzFmOWU2NGE2Y2FlMjgxYTUzZGMxZDFkNTliMWQxNDdmZTFjODJhZmEwMBgBCoQBCj5jb20uZ29vZ2xlLmFuZHJvaWQuYXBwcy5zZWFyY2guYXNzaXN0YW50LnN1cmZhY2VzLnZvaWNlLmRldmFwcBJAMTk3NWIyZjE3MTc3YmM4OWE1ZGZmMzFmOWU2NGE2Y2FlMjgxYTUzZGMxZDFkNTliMWQxNDdmZTFjODJhZmEwMBgBCmwKJmNvbS5hbmRyb2lkLnNldHRpbmdzbGliLnJvdXRlci50ZXN0YXBwEkAxMDM5MzhFRTQ1MzdFNTlFOEVFNzkyRjY1NDUwNEZCODM0NkZDNkIzNDZEMEJCQzQ0MTVGQzMzOUZDRkM4RUMxGAE</string>
+    <boolean name="SearchRecentClicks__are_recent_clicks_enabled" value="true" />
+    <string name="__phenotype_server_token">CAMSBg0D1ceiCw==</string>
+    <boolean name="SearchIndexing__enable_indexing_job_service" value="false" />
+    <boolean name="BatteryHi__is_battery_info_enabled" value="false" />
+    <long name="ContextualCardSettings__max_collection_byte_size_cap" value="100000000" />
+    <boolean name="BatteryUsage__is_enabled" value="true" />
+    <string name="__phenotype_snapshot_token"> com.google.android.settings.intelligence 1000230943 1 509759729 com.google.android.settings.intelligence 509759729 1</string>
+    <boolean name="BatteryUsage__is_restricted_mode_overwrite_enabled" value="false" />
+    <boolean name="HatsConfig__is_test_mode" value="false" />
+    <boolean name="SearchSynonyms__is_fetching_synonyms_from_remote_enabled" value="false" />
+    <boolean name="HatsConfig__log_hats_session_id" value="false" />
+    <boolean name="BatterySettings__is_incompatible_charger_warning_disabled" value="false" />
+    <boolean name="SearchResultUi__is_custom_slider_enabled" value="true" />
+    <boolean name="SearchConversationalCare__update_cache_on_indexing" value="true" />
+    <float name="ContextualCardSettings__default_ranking_score_for_possible_card" value="0.6" />
+    <boolean name="SearchIndexing__enable_max_index_threads" value="false" />
+    <boolean name="SmartSearchRanking__is_fl_training_enabled" value="false" />
+    <long name="SearchAppPromo__display_app_promo_count" value="4" />
+    <boolean name="SearchIndexing__enable_background_index_mechanism" value="true" />
+    <string name="ContextualCardRankingModelDownloadConfig__inference_plan_url">https://www.gstatic.com/brella/v9/com.google.android.settings.intelligence/272144503/gcore_y2019w39/settings_intelligence_contextual_settings_inference_user_interaction_embedding_model_inference_plan.pb</string>
+    <long name="RoutinesPrototype__inference_engine_min_confidence" value="5800" />
+    <boolean name="SearchTextConversion__is_jp_enabled" value="true" />
+    <boolean name="SettingsSearchSlices__is_settings_search_slices_enabled" value="true" />
+    <long name="RoutinesPrototype__routine_inference_min_backoff_duration_per_routine_ms" value="604800000" />
+    <string name="SmartSearchRanking__inference_params_uri">mdd://com.google.android.settings.intelligence/settings_intelligence_search_inference_model_inference_state.ckp</string>
+    <boolean name="BatteryUsage__is_managed_profile_verification_enabled" value="true" />
+    <long name="SearchPerformance__query_task_timeout_ms" value="3000" />
+    <boolean name="BatteryWidget__is_widget_enabled" value="true" />
+    <boolean name="BatteryHi__is_adaptive_charging_available" value="false" />
+    <boolean name="SearchQuery__is_invalid_search_results_removed" value="true" />
+    <boolean name="BatterySaver__is_scheduler_override_enabled" value="true" />
+    <long name="SearchIndexing__max_index_latency_ms" value="60000" />
+    <long name="RoutinesPrototype__gmscore_api_timeout_period_seconds" value="10" />
+</map>

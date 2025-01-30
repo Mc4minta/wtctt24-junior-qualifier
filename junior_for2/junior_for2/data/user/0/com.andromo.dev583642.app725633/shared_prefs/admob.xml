@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="request_in_session_count" value="8" />
+    <boolean name="gad_idless" value="false" />
+    <long name="first_ad_req_time_ms" value="1736241949904" />
+    <long name="sd_app_measure_npa_ts" value="1736241963668" />
+    <long name="app_last_background_time_ms" value="1736241969594" />
+</map>

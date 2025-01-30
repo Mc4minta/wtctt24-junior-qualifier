@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="last_used_registration_api" value="2" />
+    <string name="last_successful_registration_pseudonymous_cookie">520=Ri6taq6WHn1eA9qDIe7bG5xVopmtMKbt7X81ElL_Xpre1ctAN-Mfv0L3yQwS6ZcjSJXeYdr7A8MeDAYzyvCyvGcmkt6EVfoVD08FnpOn86CaLYOyeQ2FRLKlEbCXbHsMJ0khHo7YOpV9YLXdVEuDCAYa6jsDkK0O8A67j8A8DFs</string>
+    <string name="last_successful_registration_environment_url">notifications-pa.googleapis.com</string>
+    <boolean name="is_registered_to_unified_fcm_registration" value="true" />
+    <int name="last_successful_registration_request_hash_code" value="-1969353757" />
+    <string name="last_successful_fcm_registration_token">cspdAvv7QWK9rNFiQsE5Tf:APA91bHU28PGOZm25IQ3wOdBdMxKmhuGr-OY8pk_7653ShIsxodX4di5yvQnnGXUSD5D65t2SKaWbNCy_gksUj-ijWHURpMyGKHTbHg_qtFuZ5glTiBETC8</string>
+    <long name="last_successful_registration_time_ms" value="1736242168996" />
+    <string name="internal_target_id">EhtnY206djE6MTgyMDA0NzQ1MDYwNDkyNTI4MTA</string>
+    <int name="last_successful_registration_account_type" value="2" />
+</map>
