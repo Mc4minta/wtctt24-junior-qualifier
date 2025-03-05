@@ -1,5 +1,5 @@
 # wtctt24-junior-qualifier
-
+https://ctf.in.th/challenge/3397/
 ## write ups 
 https://medium.com/@mc4minta/wtctt24-writeups-mc4minta-812e0acfb906
 
